@@ -46,7 +46,7 @@ trojan://cd0e795a-4f26-4f8c-9981-ed8b7dcb6126@104.21.58.135:443?type=ws&sni=cdE.
 vmess://eyJwcyI6IvCfh6jwn4ezX0NOX+S4reWbvV8yIiwiYWRkIjoiNjVhYTQzMWUtc3VjdjQwLXRjb3Aybi10bDMyLmN1LnBsZWJhaS5uZXQiLCJhaWQiOjAsImlkIjoiNWMwMmFiODgtN2I5Yy0xMWVhLThmYzktZjIzYzkxM2M4ZDJiIiwibmV0IjoidGNwIiwic2N5IjoiYXV0byIsInBvcnQiOjUyMjgsInRscyI6IiJ9
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@80.92.204.106:9020#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF_13
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@80.92.204.106:9005#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF_14
-未获取到到节点，错误代码:522 Server Error: <none> for url: https://nodev2ray.com/uploads/2025/04/0-20250408.txt
+未获取到到节点，错误代码:404 Client Error: Not Found for url: https://nodev2ray.com/uploads/2025/04/0-20250408.txt
 未获取到到节点，错误代码:404 Client Error: Not Found for url: https://nodev2ray.com/uploads/2025/04/1-20250408.txt
 未获取到到节点，错误代码:404 Client Error: Not Found for url: https://nodev2ray.com/uploads/2025/04/2-20250408.txt
 未获取到到节点，错误代码:404 Client Error: Not Found for url: https://nodev2ray.com/uploads/2025/04/3-20250408.txt

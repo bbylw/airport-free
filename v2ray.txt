@@ -27,7 +27,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxODUuMTUzLjE5Ny41Ojk4OQ==#%F0%9F%87%
 vless://1b766abe-05da-46fa-973c-0d06d9605736@104.16.1.106:8880?type=ws&path=/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420?ed=2080&host=zZz.ZzZ.zZz.snap-Iranian-ali.dai.sub420-mohamad.onlinE&security=none#%5B%F0%9F%87%B3%F0%9F%87%B1%5D%20@EXPRESSVPN_420-(1)
 未获取到到节点，错误代码:404 Client Error: Not Found for url: https://nodev2ray.com/uploads/2025/08/0-20250809.txt
 未获取到到节点，错误代码:404 Client Error: Not Found for url: https://nodev2ray.com/uploads/2025/08/1-20250809.txt
-未获取到到节点，错误代码:404 Client Error: Not Found for url: https://nodev2ray.com/uploads/2025/08/2-20250809.txt
+未获取到到节点，错误代码:526 Server Error: <none> for url: https://nodev2ray.com/uploads/2025/08/2-20250809.txt
 未获取到到节点，错误代码:404 Client Error: Not Found for url: https://nodev2ray.com/uploads/2025/08/3-20250809.txt
 未获取到到节点，错误代码:404 Client Error: Not Found for url: https://nodev2ray.com/uploads/2025/08/4-20250809.txt
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:329?allowInsecure=1&sni=www.baidu.com#%E7%BE%8E%E5%9B%BD3%7C@ripaojiedian

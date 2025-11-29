@@ -32,8 +32,8 @@
 - The sources is opened [GitHub](https://github.com/xiaoji235/airport-free/tree/main)
 
 ## Peculiarity
-- Just save the v2ray py script to node/v2/, go to <strong>the action</strong>, run the workflow, and you can see the output result.
-- Just save the clash py script to node/clash/, go to <strong>the action</strong>, run the workflow, and you can see the output result.
+- Just save the v2ray py script to node/v2/, go to <strong>action</strong>, run the workflow, and you can see the output result.
+- Just save the clash py script to node/clash/, go to <strong>action</strong>, run the workflow, and you can see the output result.
 
 ## Illustrate
 - This source code has added a few node sources by default, automatically detecting updates every 3 hours, if there is a new source, you are welcome to go to [issues](https://github.com/xiaoji235/airport-free/issues) to submit the node source!

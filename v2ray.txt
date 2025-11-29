@@ -892,7 +892,8 @@ trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.132.158:2467?security=tls&sni=w
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hnm.xiaohouzi.club:36305?security=tls&sni=$$hnm.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-645%40free-nodes
 trojan://Sp3eDVp@185.212.200.75:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-646%40free-nodes
 
-未获取到到节点，错误代码:404 Client Error: Not Found for url: http://naidounode.cczzuu.top/node/20251129-v2ray.txt
+Base64解码失败: 'utf-8' codec can't decode byte 0xba in position 1: invalid start byte
+{"error":{"code":"bad_gateway","message":"Bad gateway couldn't reach internal binary"}}
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.38:8388#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@18.183.89.240:443?&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&headerType=none&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
 vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@68.64.176.135:443?&security=tls&fp=random&alpn=h3&sni=kuangbao.xiejiang.dpdns.org&type=ws&headerType=none&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD

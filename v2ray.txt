@@ -2083,8 +2083,7 @@ trojan://telegram-id-directvpn@35.156.35.238:22222?security=tls&sni=trj.rollingn
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10823?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1940%20%7C%20free-nodes
 trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:51054?security=tls&sni=hn.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-1941%20%7C%20free-nodes
 
-Base64解码失败: 'utf-8' codec can't decode byte 0x9f in position 2: invalid start byte
-The following link doesn't contain any valid node info: http://23.95.123.109/node/clash.yaml
+未获取到节点，错误代码: HTTPConnectionPool(host='naidounode.cczzuu.top', port=80): Max retries exceeded with url: /node/20251207-v2ray.txt (Caused by ConnectTimeoutError(<HTTPConnection(host='naidounode.cczzuu.top', port=80) at 0x7f034b48ae40>, 'Connection to naidounode.cczzuu.top timed out. (connect timeout=None)'))
 vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@57.180.14.97:443?&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&headerType=none&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%A7%F0%9F%87%AA_BE_%E6%AF%94%E5%88%A9%E6%97%B6
 vmess://eyJhZGQiOiI0NTdhMTQ5Mi1zdjRuNDAtdDZremJwLTFoNXU3LmhrMy5wNXB2LmNvbSIsInYiOiIyIiwicHMiOiLwn4et8J+HsCBIS18xODMiLCJwb3J0Ijo4MCwiaWQiOiJlM2ZkYmQyMi04YzE3LTExZWUtYWNlNC1mMjNjOTEzYzhkMmIiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
 vmess://eyJhZGQiOiIwYWZhZGI0YS1zdjRuNDAtdGM2MWNzLTF0amE4LmhrMy5wNXB2LmNvbSIsInYiOiIyIiwicHMiOiLwn4et8J+HsCBIS18xMzYiLCJwb3J0Ijo4MCwiaWQiOiJkMmYwYmVlMi0wMmYxLTExZjAtOGViMC1mMjNjOTE2NGNhNWQiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==

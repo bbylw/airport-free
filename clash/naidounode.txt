@@ -1,1 +1,1 @@
-
+未获取到到节点，错误代码：HTTPConnectionPool(host='naidounode.cczzuu.top', port=80): Max retries exceeded with url: /node/20251207-clash.yaml (Caused by ConnectTimeoutError(<HTTPConnection(host='naidounode.cczzuu.top', port=80) at 0x7f27d1076e40>, 'Connection to naidounode.cczzuu.top timed out. (connect timeout=None)'))

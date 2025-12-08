@@ -1,2 +1,1 @@
-Base64解码失败: 'utf-8' codec can't decode byte 0x9f in position 2: invalid start byte
-The following link doesn't contain any valid node info: http://23.95.123.109/node/clash.yaml
+未获取到节点，错误代码: 404 Client Error: Not Found for url: http://naidounode.cczzuu.top/node/20251208-v2ray.txt

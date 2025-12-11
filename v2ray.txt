@@ -2136,7 +2136,8 @@ trojan://shenmegui@185.49.33.47:8461?security=tls&sni=$jp.swiftfalcon.app#%E6%9C
 trojan://telegram-id-directvpn@3.21.104.170:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1931%20%7C%20free-nodes
 trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1932%20%7C%20free-nodes
 
-未获取到节点，错误代码: 404 Client Error: Not Found for url: http://naidounode.cczzuu.top/node/20251211-v2ray.txt
+Base64解码失败: 'utf-8' codec can't decode byte 0xba in position 1: invalid start byte
+{"error":{"code":"bad_gateway","message":"Bad gateway couldn't reach internal binary"}}
 hysteria://195.154.200.40:15010?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=100&protocol=udp&insecure=1&peer=apple.com&udp=true&upmbps=100#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 hysteria://51.159.226.1:49003?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&delay=1547&downmbps=55&protocol=udp&insecure=1&peer=apple.com&udp=true&upmbps=11#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 hysteria://62.210.10.186:50011?alpn=h3&auth=dongtaiwang.com&downmbps=55 Mbps&protocol=udp&insecure=1&peer=apple.com&upmbps=11 Mbps#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD

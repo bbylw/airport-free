@@ -1,2 +1,1 @@
-Base64解码失败: 'utf-8' codec can't decode byte 0xba in position 1: invalid start byte
-{"error":{"code":"bad_gateway","message":"Bad gateway couldn't reach internal binary"}}
+未获取到节点，错误代码: 404 Client Error: Not Found for url: http://naidounode.cczzuu.top/node/20251213-v2ray.txt

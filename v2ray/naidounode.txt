@@ -1,1 +1,7 @@
-未获取到节点，错误代码: 404 Client Error: Not Found for url: http://naidounode.cczzuu.top/node/20260215-v2ray.txt
+Base64解码失败: 'utf-8' codec can't decode byte 0xac in position 1: invalid start byte
+Payment required
+
+DEPLOYMENT_DISABLED
+
+iad1::d7lrt-1771121041712-3ae9293f81dc
+

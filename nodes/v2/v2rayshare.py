@@ -18,7 +18,7 @@ DAY = f"{day:02d}"
 
 # 构建URL列表
 urls = [
-    f"https://v2rayshare.githubrowcontent.com/{year}/{MONTH}/{year}{MONTH}{DAY}.txt"
+    f"https://static.v2rayshare.net/{year}/{MONTH}/{year}{MONTH}{DAY}.txt"
 ]
 
 # 发起请求并打印结果

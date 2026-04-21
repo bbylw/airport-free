@@ -5,18 +5,18 @@ log-level: info
 external-controller: :9090
 proxies:
   - {name: 8元老牌专线机场：cczzuu.top, server: efan.dnsefan04881.com, port: 7754, type: vmess, uuid: 009e558d-3cf4-49d8-b5e4-82c9e14fe1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇪🇸 西班牙 CCZZUU.TOP, server: 80.173.230.196, port: 26279, type: trojan, password: a5inYFE=JGV89+hjxIqgDp1tcWBd6, skip-cert-verify: true, tfo: false}
-  - {name: 亚太地区 CCZZUU.TOP, server: 103.181.164.145, port: 51556, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 伦敦Virgin Media, server: 82.26.155.105, port: 10369, type: trojan, password: n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj, sni: fra32.chasem2026sud.com, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP, server: 82.198.246.233, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇬🇧 英国 CCZZUU.TOP, server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇮🇪 爱尔兰 CCZZUU.TOP, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false}
+  - {name: 🇬🇧 英国 伦敦Virgin Media, server: 82.26.155.237, port: 10369, type: trojan, password: n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj, sni: fra5.chasem2026sud.com, skip-cert-verify: true, tfo: false}
+  - {name: 🇧🇬 保加利亚 CCZZUU.TOP, server: 78.159.131.12, port: 28259, type: trojan, password: MeaDiUmPlkWbZJ2BON8tz, sni: ads.x5.ru, skip-cert-verify: true, tfo: false}
+  - {name: 🇺🇸 美国 CCZZUU.TOP, server: 166.88.197.60, port: 26650, type: trojan, password: UNWA6USASAb6=uAAZeZMFd+2uKB4.d5KOm, sni: sea9.firewallcontract.click, skip-cert-verify: true, tfo: false}
+  - {name: 🇬🇧 英国 CCZZUU.TOP 2, server: usgpt.slianrk.com, port: 13012, type: ss, cipher: chacha20-ietf-poly1305, password: e777513e-9df5-4dc3-bc84-74e564345a81, tfo: false}
+  - {name: 🇭🇰 香港 电讯盈科有限公司, server: efan.dnsefan04881.com, port: 7754, type: vmess, uuid: 009e558d-3cf4-49d8-b5e4-82c9e14fe1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇮🇪 爱尔兰 CCZZUU.TOP 2, server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false}
+  - {name: 🇮🇪 爱尔兰 CCZZUU.TOP 3, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false}
+  - {name: 🇬🇧 英国 伦敦Virgin Media 2, server: 82.26.155.3, port: 10369, type: trojan, password: n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj, sni: fra34.chasem2026sud.com, skip-cert-verify: true, tfo: false}
   - {name: 🇷🇺 俄罗斯 CCZZUU.TOP, server: 194.87.10.31, port: 23357, type: trojan, password: fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg, sni: sgp9.node-resource.click, skip-cert-verify: true, tfo: false}
-  - {name: 🇮🇪 爱尔兰 CCZZUU.TOP, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP 2, server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP 3, server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 伦敦Virgin Media 2, server: 82.26.155.237, port: 10369, type: trojan, password: n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj, sni: fra5.chasem2026sud.com, skip-cert-verify: true, tfo: false}
-  - {name: 🇺🇸 美国 Akamai科技公司CDN网络节点, server: usaapp1.jisuyun.top, port: 2053, type: vmess, uuid: 4b80aa86-4354-40bb-d2a3-47126cff0bea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usaapp1.jisuyun.top, network: ws, ws-opts: {path: /usavm, headers: {Host: usaapp1.jisuyun.top}}, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP 4, server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 伦敦Virgin Media 3, server: 82.26.155.199, port: 10369, type: trojan, password: n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj, sni: fra4.chasem2026sud.com, skip-cert-verify: true, tfo: false}
+  - {name: 🇬🇧 英国 CCZZUU.TOP 3, server: 82.198.246.46, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -24,18 +24,18 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - 8元老牌专线机场：cczzuu.top
-      - 🇪🇸 西班牙 CCZZUU.TOP
-      - 亚太地区 CCZZUU.TOP
-      - 🇬🇧 英国 伦敦Virgin Media
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
       - 🇮🇪 爱尔兰 CCZZUU.TOP
+      - 🇬🇧 英国 伦敦Virgin Media
+      - 🇧🇬 保加利亚 CCZZUU.TOP
+      - 🇺🇸 美国 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇬🇧 英国 CCZZUU.TOP 3
+      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇮🇪 爱尔兰 CCZZUU.TOP 2
+      - 🇮🇪 爱尔兰 CCZZUU.TOP 3
       - 🇬🇧 英国 伦敦Virgin Media 2
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇬🇧 英国 CCZZUU.TOP 4
-      - 🇬🇧 英国 伦敦Virgin Media 3
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇬🇧 英国 CCZZUU.TOP 3
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -43,18 +43,18 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 8元老牌专线机场：cczzuu.top
-      - 🇪🇸 西班牙 CCZZUU.TOP
-      - 亚太地区 CCZZUU.TOP
-      - 🇬🇧 英国 伦敦Virgin Media
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
       - 🇮🇪 爱尔兰 CCZZUU.TOP
+      - 🇬🇧 英国 伦敦Virgin Media
+      - 🇧🇬 保加利亚 CCZZUU.TOP
+      - 🇺🇸 美国 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇬🇧 英国 CCZZUU.TOP 3
+      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇮🇪 爱尔兰 CCZZUU.TOP 2
+      - 🇮🇪 爱尔兰 CCZZUU.TOP 3
       - 🇬🇧 英国 伦敦Virgin Media 2
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇬🇧 英国 CCZZUU.TOP 4
-      - 🇬🇧 英国 伦敦Virgin Media 3
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇬🇧 英国 CCZZUU.TOP 3
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -62,72 +62,72 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 🇪🇸 西班牙 CCZZUU.TOP
-      - 亚太地区 CCZZUU.TOP
-      - 🇬🇧 英国 伦敦Virgin Media
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
       - 🇮🇪 爱尔兰 CCZZUU.TOP
+      - 🇬🇧 英国 伦敦Virgin Media
+      - 🇧🇬 保加利亚 CCZZUU.TOP
+      - 🇺🇸 美国 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇬🇧 英国 CCZZUU.TOP 3
+      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇮🇪 爱尔兰 CCZZUU.TOP 2
+      - 🇮🇪 爱尔兰 CCZZUU.TOP 3
       - 🇬🇧 英国 伦敦Virgin Media 2
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇬🇧 英国 CCZZUU.TOP 4
-      - 🇬🇧 英国 伦敦Virgin Media 3
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇬🇧 英国 CCZZUU.TOP 3
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 🇪🇸 西班牙 CCZZUU.TOP
-      - 亚太地区 CCZZUU.TOP
-      - 🇬🇧 英国 伦敦Virgin Media
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
       - 🇮🇪 爱尔兰 CCZZUU.TOP
+      - 🇬🇧 英国 伦敦Virgin Media
+      - 🇧🇬 保加利亚 CCZZUU.TOP
+      - 🇺🇸 美国 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇬🇧 英国 CCZZUU.TOP 3
+      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇮🇪 爱尔兰 CCZZUU.TOP 2
+      - 🇮🇪 爱尔兰 CCZZUU.TOP 3
       - 🇬🇧 英国 伦敦Virgin Media 2
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇬🇧 英国 CCZZUU.TOP 4
-      - 🇬🇧 英国 伦敦Virgin Media 3
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇬🇧 英国 CCZZUU.TOP 3
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
       - 8元老牌专线机场：cczzuu.top
-      - 🇪🇸 西班牙 CCZZUU.TOP
-      - 亚太地区 CCZZUU.TOP
-      - 🇬🇧 英国 伦敦Virgin Media
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
       - 🇮🇪 爱尔兰 CCZZUU.TOP
+      - 🇬🇧 英国 伦敦Virgin Media
+      - 🇧🇬 保加利亚 CCZZUU.TOP
+      - 🇺🇸 美国 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇬🇧 英国 CCZZUU.TOP 3
+      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇮🇪 爱尔兰 CCZZUU.TOP 2
+      - 🇮🇪 爱尔兰 CCZZUU.TOP 3
       - 🇬🇧 英国 伦敦Virgin Media 2
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇬🇧 英国 CCZZUU.TOP 4
-      - 🇬🇧 英国 伦敦Virgin Media 3
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇬🇧 英国 CCZZUU.TOP 3
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 🇪🇸 西班牙 CCZZUU.TOP
-      - 亚太地区 CCZZUU.TOP
-      - 🇬🇧 英国 伦敦Virgin Media
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
       - 🇮🇪 爱尔兰 CCZZUU.TOP
+      - 🇬🇧 英国 伦敦Virgin Media
+      - 🇧🇬 保加利亚 CCZZUU.TOP
+      - 🇺🇸 美国 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇬🇧 英国 CCZZUU.TOP 3
+      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇮🇪 爱尔兰 CCZZUU.TOP 2
+      - 🇮🇪 爱尔兰 CCZZUU.TOP 3
       - 🇬🇧 英国 伦敦Virgin Media 2
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇬🇧 英国 CCZZUU.TOP 4
-      - 🇬🇧 英国 伦敦Virgin Media 3
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇬🇧 英国 CCZZUU.TOP 3
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -135,18 +135,18 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 8元老牌专线机场：cczzuu.top
-      - 🇪🇸 西班牙 CCZZUU.TOP
-      - 亚太地区 CCZZUU.TOP
-      - 🇬🇧 英国 伦敦Virgin Media
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
       - 🇮🇪 爱尔兰 CCZZUU.TOP
+      - 🇬🇧 英国 伦敦Virgin Media
+      - 🇧🇬 保加利亚 CCZZUU.TOP
+      - 🇺🇸 美国 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇬🇧 英国 CCZZUU.TOP 3
+      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇮🇪 爱尔兰 CCZZUU.TOP 2
+      - 🇮🇪 爱尔兰 CCZZUU.TOP 3
       - 🇬🇧 英国 伦敦Virgin Media 2
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇬🇧 英国 CCZZUU.TOP 4
-      - 🇬🇧 英国 伦敦Virgin Media 3
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇬🇧 英国 CCZZUU.TOP 3
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -170,18 +170,18 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 8元老牌专线机场：cczzuu.top
-      - 🇪🇸 西班牙 CCZZUU.TOP
-      - 亚太地区 CCZZUU.TOP
-      - 🇬🇧 英国 伦敦Virgin Media
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
       - 🇮🇪 爱尔兰 CCZZUU.TOP
+      - 🇬🇧 英国 伦敦Virgin Media
+      - 🇧🇬 保加利亚 CCZZUU.TOP
+      - 🇺🇸 美国 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇬🇧 英国 CCZZUU.TOP 3
+      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇮🇪 爱尔兰 CCZZUU.TOP 2
+      - 🇮🇪 爱尔兰 CCZZUU.TOP 3
       - 🇬🇧 英国 伦敦Virgin Media 2
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇬🇧 英国 CCZZUU.TOP 4
-      - 🇬🇧 英国 伦敦Virgin Media 3
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇬🇧 英国 CCZZUU.TOP 3
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

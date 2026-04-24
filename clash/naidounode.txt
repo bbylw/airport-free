@@ -5,16 +5,19 @@ log-level: info
 external-controller: :9090
 proxies:
   - {name: 8元老牌专线机场：cczzuu.top, server: efan.dnsefan04881.com, port: 7754, type: vmess, uuid: 009e558d-3cf4-49d8-b5e4-82c9e14fe1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: 🇬🇧 英国 伦敦Virgin Media, server: 82.26.155.20, port: 10369, type: trojan, password: n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj, sni: fra35.chasem2026sud.com, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP 2, server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇬🇧 英国 CCZZUU.TOP, server: 82.198.246.9, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 香港 电讯盈科有限公司, server: vm51544542.dns8656815.com, port: 7754, type: vmess, uuid: 009e558d-3cf4-49d8-b5e4-82c9e14fe1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇬🇧 英国 CCZZUU.TOP 2, server: 82.198.246.9, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: 🇬🇧 英国 CCZZUU.TOP 3, server: 82.198.246.9, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 亚太地区 CCZZUU.TOP, server: 103.181.164.145, port: 51556, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇪🇸 西班牙 CCZZUU.TOP, server: 80.173.230.196, port: 26279, type: trojan, password: a5inYFE=JGV89+hjxIqgDp1tcWBd6, skip-cert-verify: true, tfo: false}
   - {name: 🇬🇧 英国 CCZZUU.TOP 4, server: 82.198.246.233, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 伦敦Virgin Media 2, server: 82.26.155.105, port: 10369, type: trojan, password: n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj, sni: fra32.chasem2026sud.com, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP 5, server: 82.198.246.9, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP 6, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇬🇧 英国 伦敦Virgin Media, server: 82.26.155.105, port: 10369, type: trojan, password: n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj, sni: fra32.chasem2026sud.com, skip-cert-verify: true, tfo: false}
+  - {name: 🇬🇧 英国 CCZZUU.TOP 5, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇬🇧 英国 CCZZUU.TOP 6, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: 🇺🇸 美国 DXC Technology, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, tfo: false}
   - {name: 🇬🇧 英国 CCZZUU.TOP 7, server: usgpt.slianrk.com, port: 13012, type: ss, cipher: chacha20-ietf-poly1305, password: e777513e-9df5-4dc3-bc84-74e564345a81, tfo: false}
+  - {name: 🇬🇧 英国 CCZZUU.TOP 8, server: 82.198.246.9, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇬🇧 英国 伦敦Virgin Media 2, server: 82.26.155.121, port: 10369, type: trojan, password: n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj, sni: fra33.chasem2026sud.com, skip-cert-verify: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -23,15 +26,18 @@ proxy-groups:
       - DIRECT
       - 8元老牌专线机场：cczzuu.top
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇬🇧 英国 伦敦Virgin Media
+      - 🇭🇰 香港 电讯盈科有限公司
       - 🇬🇧 英国 CCZZUU.TOP 2
       - 🇬🇧 英国 CCZZUU.TOP 3
-      - 亚太地区 CCZZUU.TOP
+      - 🇪🇸 西班牙 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 4
-      - 🇬🇧 英国 伦敦Virgin Media 2
+      - 🇬🇧 英国 伦敦Virgin Media
       - 🇬🇧 英国 CCZZUU.TOP 5
       - 🇬🇧 英国 CCZZUU.TOP 6
+      - 🇺🇸 美国 DXC Technology
       - 🇬🇧 英国 CCZZUU.TOP 7
+      - 🇬🇧 英国 CCZZUU.TOP 8
+      - 🇬🇧 英国 伦敦Virgin Media 2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -40,15 +46,18 @@ proxy-groups:
     proxies:
       - 8元老牌专线机场：cczzuu.top
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇬🇧 英国 伦敦Virgin Media
+      - 🇭🇰 香港 电讯盈科有限公司
       - 🇬🇧 英国 CCZZUU.TOP 2
       - 🇬🇧 英国 CCZZUU.TOP 3
-      - 亚太地区 CCZZUU.TOP
+      - 🇪🇸 西班牙 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 4
-      - 🇬🇧 英国 伦敦Virgin Media 2
+      - 🇬🇧 英国 伦敦Virgin Media
       - 🇬🇧 英国 CCZZUU.TOP 5
       - 🇬🇧 英国 CCZZUU.TOP 6
+      - 🇺🇸 美国 DXC Technology
       - 🇬🇧 英国 CCZZUU.TOP 7
+      - 🇬🇧 英国 CCZZUU.TOP 8
+      - 🇬🇧 英国 伦敦Virgin Media 2
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -57,15 +66,18 @@ proxy-groups:
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇬🇧 英国 伦敦Virgin Media
+      - 🇭🇰 香港 电讯盈科有限公司
       - 🇬🇧 英国 CCZZUU.TOP 2
       - 🇬🇧 英国 CCZZUU.TOP 3
-      - 亚太地区 CCZZUU.TOP
+      - 🇪🇸 西班牙 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 4
-      - 🇬🇧 英国 伦敦Virgin Media 2
+      - 🇬🇧 英国 伦敦Virgin Media
       - 🇬🇧 英国 CCZZUU.TOP 5
       - 🇬🇧 英国 CCZZUU.TOP 6
+      - 🇺🇸 美国 DXC Technology
       - 🇬🇧 英国 CCZZUU.TOP 7
+      - 🇬🇧 英国 CCZZUU.TOP 8
+      - 🇬🇧 英国 伦敦Virgin Media 2
   - name: 📲 电报信息
     type: select
     proxies:
@@ -73,15 +85,18 @@ proxy-groups:
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇬🇧 英国 伦敦Virgin Media
+      - 🇭🇰 香港 电讯盈科有限公司
       - 🇬🇧 英国 CCZZUU.TOP 2
       - 🇬🇧 英国 CCZZUU.TOP 3
-      - 亚太地区 CCZZUU.TOP
+      - 🇪🇸 西班牙 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 4
-      - 🇬🇧 英国 伦敦Virgin Media 2
+      - 🇬🇧 英国 伦敦Virgin Media
       - 🇬🇧 英国 CCZZUU.TOP 5
       - 🇬🇧 英国 CCZZUU.TOP 6
+      - 🇺🇸 美国 DXC Technology
       - 🇬🇧 英国 CCZZUU.TOP 7
+      - 🇬🇧 英国 CCZZUU.TOP 8
+      - 🇬🇧 英国 伦敦Virgin Media 2
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -89,15 +104,18 @@ proxy-groups:
       - 🚀 节点选择
       - 8元老牌专线机场：cczzuu.top
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇬🇧 英国 伦敦Virgin Media
+      - 🇭🇰 香港 电讯盈科有限公司
       - 🇬🇧 英国 CCZZUU.TOP 2
       - 🇬🇧 英国 CCZZUU.TOP 3
-      - 亚太地区 CCZZUU.TOP
+      - 🇪🇸 西班牙 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 4
-      - 🇬🇧 英国 伦敦Virgin Media 2
+      - 🇬🇧 英国 伦敦Virgin Media
       - 🇬🇧 英国 CCZZUU.TOP 5
       - 🇬🇧 英国 CCZZUU.TOP 6
+      - 🇺🇸 美国 DXC Technology
       - 🇬🇧 英国 CCZZUU.TOP 7
+      - 🇬🇧 英国 CCZZUU.TOP 8
+      - 🇬🇧 英国 伦敦Virgin Media 2
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -105,15 +123,18 @@ proxy-groups:
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇬🇧 英国 伦敦Virgin Media
+      - 🇭🇰 香港 电讯盈科有限公司
       - 🇬🇧 英国 CCZZUU.TOP 2
       - 🇬🇧 英国 CCZZUU.TOP 3
-      - 亚太地区 CCZZUU.TOP
+      - 🇪🇸 西班牙 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 4
-      - 🇬🇧 英国 伦敦Virgin Media 2
+      - 🇬🇧 英国 伦敦Virgin Media
       - 🇬🇧 英国 CCZZUU.TOP 5
       - 🇬🇧 英国 CCZZUU.TOP 6
+      - 🇺🇸 美国 DXC Technology
       - 🇬🇧 英国 CCZZUU.TOP 7
+      - 🇬🇧 英国 CCZZUU.TOP 8
+      - 🇬🇧 英国 伦敦Virgin Media 2
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -122,15 +143,18 @@ proxy-groups:
       - ♻️ 自动选择
       - 8元老牌专线机场：cczzuu.top
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇬🇧 英国 伦敦Virgin Media
+      - 🇭🇰 香港 电讯盈科有限公司
       - 🇬🇧 英国 CCZZUU.TOP 2
       - 🇬🇧 英国 CCZZUU.TOP 3
-      - 亚太地区 CCZZUU.TOP
+      - 🇪🇸 西班牙 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 4
-      - 🇬🇧 英国 伦敦Virgin Media 2
+      - 🇬🇧 英国 伦敦Virgin Media
       - 🇬🇧 英国 CCZZUU.TOP 5
       - 🇬🇧 英国 CCZZUU.TOP 6
+      - 🇺🇸 美国 DXC Technology
       - 🇬🇧 英国 CCZZUU.TOP 7
+      - 🇬🇧 英国 CCZZUU.TOP 8
+      - 🇬🇧 英国 伦敦Virgin Media 2
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -155,15 +179,18 @@ proxy-groups:
       - ♻️ 自动选择
       - 8元老牌专线机场：cczzuu.top
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇬🇧 英国 伦敦Virgin Media
+      - 🇭🇰 香港 电讯盈科有限公司
       - 🇬🇧 英国 CCZZUU.TOP 2
       - 🇬🇧 英国 CCZZUU.TOP 3
-      - 亚太地区 CCZZUU.TOP
+      - 🇪🇸 西班牙 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 4
-      - 🇬🇧 英国 伦敦Virgin Media 2
+      - 🇬🇧 英国 伦敦Virgin Media
       - 🇬🇧 英国 CCZZUU.TOP 5
       - 🇬🇧 英国 CCZZUU.TOP 6
+      - 🇺🇸 美国 DXC Technology
       - 🇬🇧 英国 CCZZUU.TOP 7
+      - 🇬🇧 英国 CCZZUU.TOP 8
+      - 🇬🇧 英国 伦敦Virgin Media 2
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

@@ -5,20 +5,18 @@ log-level: info
 external-controller: :9090
 proxies:
   - {name: 8元老牌专线机场：cczzuu.top, server: efan.dnsefan04881.com, port: 7754, type: vmess, uuid: 009e558d-3cf4-49d8-b5e4-82c9e14fe1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 亚太地区 CCZZUU.TOP, server: 103.181.164.145, port: 54022, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP, server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 亚太地区 CCZZUU.TOP, server: 103.181.164.145, port: 54022, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇺🇸 美国 Akamai科技公司CDN网络节点, server: 172.238.15.102, port: 25584, type: ss, cipher: aes-128-gcm, password: 0fae0ceb-4b6d-4bab-9d3c-612c77ae9b2f, tfo: false}
+  - {name: 🇷🇺 俄罗斯 鞑靼斯坦喀山justhost, server: 46.17.42.114, port: 40129, type: ss, cipher: aes-256-gcm, password: 7ae4e68cf77f6089, tfo: false}
+  - {name: 🇬🇧 英国 CCZZUU.TOP, server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: 🇷🇺 俄罗斯 CCZZUU.TOP, server: 195.58.49.9, port: 40901, type: ss, cipher: aes-256-gcm, password: 9f3d1a6d31468599, tfo: false}
+  - {name: 🇷🇺 俄罗斯 莫斯科JustHost, server: 45.140.169.216, port: 40412, type: ss, cipher: aes-256-gcm, password: c5fcdf7829112cb4, tfo: false}
   - {name: 亚太地区 CCZZUU.TOP 2, server: 103.181.164.145, port: 51556, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP 2, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 亚太地区 CCZZUU.TOP 3, server: 103.181.164.145, port: 54022, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP 3, server: 82.198.246.233, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 亚太地区 CCZZUU.TOP 4, server: 103.181.164.145, port: 51556, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP 4, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 亚太地区 CCZZUU.TOP 5, server: 103.181.164.145, port: 51556, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP 5, server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP 6, server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP 7, server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP 8, server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP 9, server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇨🇭 瑞士 CCZZUU.TOP, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
+  - {name: 🇷🇺 俄罗斯 CCZZUU.TOP 2, server: 176.32.39.99, port: 40120, type: ss, cipher: aes-256-gcm, password: 1a87017d0bf57f34, tfo: false}
+  - {name: 🇬🇧 英国 CCZZUU.TOP 2, server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇬🇧 英国 CCZZUU.TOP 3, server: 82.198.246.9, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇬🇧 英国 CCZZUU.TOP 4, server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -27,19 +25,17 @@ proxy-groups:
       - DIRECT
       - 8元老牌专线机场：cczzuu.top
       - 亚太地区 CCZZUU.TOP
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 鞑靼斯坦喀山justhost
       - 🇬🇧 英国 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 莫斯科JustHost
       - 亚太地区 CCZZUU.TOP 2
+      - 🇨🇭 瑞士 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 CCZZUU.TOP 2
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 亚太地区 CCZZUU.TOP 3
       - 🇬🇧 英国 CCZZUU.TOP 3
-      - 亚太地区 CCZZUU.TOP 4
       - 🇬🇧 英国 CCZZUU.TOP 4
-      - 亚太地区 CCZZUU.TOP 5
-      - 🇬🇧 英国 CCZZUU.TOP 5
-      - 🇬🇧 英国 CCZZUU.TOP 6
-      - 🇬🇧 英国 CCZZUU.TOP 7
-      - 🇬🇧 英国 CCZZUU.TOP 8
-      - 🇬🇧 英国 CCZZUU.TOP 9
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -48,19 +44,17 @@ proxy-groups:
     proxies:
       - 8元老牌专线机场：cczzuu.top
       - 亚太地区 CCZZUU.TOP
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 鞑靼斯坦喀山justhost
       - 🇬🇧 英国 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 莫斯科JustHost
       - 亚太地区 CCZZUU.TOP 2
+      - 🇨🇭 瑞士 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 CCZZUU.TOP 2
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 亚太地区 CCZZUU.TOP 3
       - 🇬🇧 英国 CCZZUU.TOP 3
-      - 亚太地区 CCZZUU.TOP 4
       - 🇬🇧 英国 CCZZUU.TOP 4
-      - 亚太地区 CCZZUU.TOP 5
-      - 🇬🇧 英国 CCZZUU.TOP 5
-      - 🇬🇧 英国 CCZZUU.TOP 6
-      - 🇬🇧 英国 CCZZUU.TOP 7
-      - 🇬🇧 英国 CCZZUU.TOP 8
-      - 🇬🇧 英国 CCZZUU.TOP 9
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -69,19 +63,17 @@ proxy-groups:
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
       - 亚太地区 CCZZUU.TOP
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 鞑靼斯坦喀山justhost
       - 🇬🇧 英国 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 莫斯科JustHost
       - 亚太地区 CCZZUU.TOP 2
+      - 🇨🇭 瑞士 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 CCZZUU.TOP 2
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 亚太地区 CCZZUU.TOP 3
       - 🇬🇧 英国 CCZZUU.TOP 3
-      - 亚太地区 CCZZUU.TOP 4
       - 🇬🇧 英国 CCZZUU.TOP 4
-      - 亚太地区 CCZZUU.TOP 5
-      - 🇬🇧 英国 CCZZUU.TOP 5
-      - 🇬🇧 英国 CCZZUU.TOP 6
-      - 🇬🇧 英国 CCZZUU.TOP 7
-      - 🇬🇧 英国 CCZZUU.TOP 8
-      - 🇬🇧 英国 CCZZUU.TOP 9
   - name: 📲 电报信息
     type: select
     proxies:
@@ -89,19 +81,17 @@ proxy-groups:
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
       - 亚太地区 CCZZUU.TOP
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 鞑靼斯坦喀山justhost
       - 🇬🇧 英国 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 莫斯科JustHost
       - 亚太地区 CCZZUU.TOP 2
+      - 🇨🇭 瑞士 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 CCZZUU.TOP 2
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 亚太地区 CCZZUU.TOP 3
       - 🇬🇧 英国 CCZZUU.TOP 3
-      - 亚太地区 CCZZUU.TOP 4
       - 🇬🇧 英国 CCZZUU.TOP 4
-      - 亚太地区 CCZZUU.TOP 5
-      - 🇬🇧 英国 CCZZUU.TOP 5
-      - 🇬🇧 英国 CCZZUU.TOP 6
-      - 🇬🇧 英国 CCZZUU.TOP 7
-      - 🇬🇧 英国 CCZZUU.TOP 8
-      - 🇬🇧 英国 CCZZUU.TOP 9
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -109,19 +99,17 @@ proxy-groups:
       - 🚀 节点选择
       - 8元老牌专线机场：cczzuu.top
       - 亚太地区 CCZZUU.TOP
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 鞑靼斯坦喀山justhost
       - 🇬🇧 英国 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 莫斯科JustHost
       - 亚太地区 CCZZUU.TOP 2
+      - 🇨🇭 瑞士 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 CCZZUU.TOP 2
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 亚太地区 CCZZUU.TOP 3
       - 🇬🇧 英国 CCZZUU.TOP 3
-      - 亚太地区 CCZZUU.TOP 4
       - 🇬🇧 英国 CCZZUU.TOP 4
-      - 亚太地区 CCZZUU.TOP 5
-      - 🇬🇧 英国 CCZZUU.TOP 5
-      - 🇬🇧 英国 CCZZUU.TOP 6
-      - 🇬🇧 英国 CCZZUU.TOP 7
-      - 🇬🇧 英国 CCZZUU.TOP 8
-      - 🇬🇧 英国 CCZZUU.TOP 9
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -129,19 +117,17 @@ proxy-groups:
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
       - 亚太地区 CCZZUU.TOP
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 鞑靼斯坦喀山justhost
       - 🇬🇧 英国 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 莫斯科JustHost
       - 亚太地区 CCZZUU.TOP 2
+      - 🇨🇭 瑞士 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 CCZZUU.TOP 2
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 亚太地区 CCZZUU.TOP 3
       - 🇬🇧 英国 CCZZUU.TOP 3
-      - 亚太地区 CCZZUU.TOP 4
       - 🇬🇧 英国 CCZZUU.TOP 4
-      - 亚太地区 CCZZUU.TOP 5
-      - 🇬🇧 英国 CCZZUU.TOP 5
-      - 🇬🇧 英国 CCZZUU.TOP 6
-      - 🇬🇧 英国 CCZZUU.TOP 7
-      - 🇬🇧 英国 CCZZUU.TOP 8
-      - 🇬🇧 英国 CCZZUU.TOP 9
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -150,19 +136,17 @@ proxy-groups:
       - ♻️ 自动选择
       - 8元老牌专线机场：cczzuu.top
       - 亚太地区 CCZZUU.TOP
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 鞑靼斯坦喀山justhost
       - 🇬🇧 英国 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 莫斯科JustHost
       - 亚太地区 CCZZUU.TOP 2
+      - 🇨🇭 瑞士 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 CCZZUU.TOP 2
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 亚太地区 CCZZUU.TOP 3
       - 🇬🇧 英国 CCZZUU.TOP 3
-      - 亚太地区 CCZZUU.TOP 4
       - 🇬🇧 英国 CCZZUU.TOP 4
-      - 亚太地区 CCZZUU.TOP 5
-      - 🇬🇧 英国 CCZZUU.TOP 5
-      - 🇬🇧 英国 CCZZUU.TOP 6
-      - 🇬🇧 英国 CCZZUU.TOP 7
-      - 🇬🇧 英国 CCZZUU.TOP 8
-      - 🇬🇧 英国 CCZZUU.TOP 9
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -187,19 +171,17 @@ proxy-groups:
       - ♻️ 自动选择
       - 8元老牌专线机场：cczzuu.top
       - 亚太地区 CCZZUU.TOP
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 鞑靼斯坦喀山justhost
       - 🇬🇧 英国 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 莫斯科JustHost
       - 亚太地区 CCZZUU.TOP 2
+      - 🇨🇭 瑞士 CCZZUU.TOP
+      - 🇷🇺 俄罗斯 CCZZUU.TOP 2
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 亚太地区 CCZZUU.TOP 3
       - 🇬🇧 英国 CCZZUU.TOP 3
-      - 亚太地区 CCZZUU.TOP 4
       - 🇬🇧 英国 CCZZUU.TOP 4
-      - 亚太地区 CCZZUU.TOP 5
-      - 🇬🇧 英国 CCZZUU.TOP 5
-      - 🇬🇧 英国 CCZZUU.TOP 6
-      - 🇬🇧 英国 CCZZUU.TOP 7
-      - 🇬🇧 英国 CCZZUU.TOP 8
-      - 🇬🇧 英国 CCZZUU.TOP 9
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

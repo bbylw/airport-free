@@ -5,18 +5,16 @@ log-level: info
 external-controller: :9090
 proxies:
   - {name: 8元老牌专线机场：cczzuu.top, server: efan.dnsefan04881.com, port: 7754, type: vmess, uuid: 009e558d-3cf4-49d8-b5e4-82c9e14fe1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 亚太地区 CCZZUU.TOP, server: planb.mojcn.com, port: 16632, type: vmess, uuid: f365630d-15b5-4bd4-ad55-aa6284d7be30, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 8a687da9458cc46e80abc85ec8d8ada7.mobgslb.tbcache.com}}, tfo: false}
+  - {name: 🇺🇸 美国 DXC Technology, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false}
   - {name: 🇬🇧 英国 CCZZUU.TOP, server: 82.198.246.233, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇷🇺 俄罗斯 CCZZUU.TOP, server: 192.124.176.49, port: 8388, type: ss, cipher: aes-256-gcm, password: rlnuK3GkwkfM, tfo: false}
-  - {name: 🇯🇵 日本 CCZZUU.TOP, server: planb.mojcn.com, port: 16616, type: vmess, uuid: f365630d-15b5-4bd4-ad55-aa6284d7be30, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 8a687da9458cc46e80abc85ec8d8ada7.mobgslb.tbcache.com}}, tfo: false}
+  - {name: 亚太地区 CCZZUU.TOP, server: 103.181.164.145, port: 54022, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇬🇧 英国 CCZZUU.TOP 2, server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇺🇸 美国 DXC Technology 2, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, tfo: false}
+  - {name: 🇬🇧 英国 CCZZUU.TOP 3, server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇬🇧 英国 CCZZUU.TOP 4, server: 82.38.31.186, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: 🇬🇧 英国 CCZZUU.TOP 5, server: 82.198.246.9, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: 🇪🇸 西班牙 CCZZUU.TOP, server: yespaintstudio.rav-kraski.ru, port: 50824, type: trojan, password: 7aXwJPnpAJ, sni: yespaintstudio.rav-kraski.ru, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP 2, server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 伦敦Microsoft公司, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false}
-  - {name: 🇺🇸 美国 CCZZUU.TOP, server: 149.28.255.6, port: 816, type: ss, cipher: chacha20-ietf-poly1305, password: GyZ5Xo0ht41vYmW3H4, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP 3, server: 82.38.31.148, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP 4, server: 82.198.246.233, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP 5, server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇺🇸 北美地区 CCZZUU.TOP, server: ikuai.bot.nu, port: 21777, type: trojan, password: 7c9fea7c-8def-3dd5-853a-5844f9b04146, sni: windows11.dpdns.org, skip-cert-verify: true, tfo: false}
+  - {name: 🇬🇧 英国 伦敦Microsoft公司, server: 51.142.112.40, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -24,18 +22,16 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - 8元老牌专线机场：cczzuu.top
-      - 亚太地区 CCZZUU.TOP
+      - 🇺🇸 美国 DXC Technology
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
-      - 🇯🇵 日本 CCZZUU.TOP
-      - 🇪🇸 西班牙 CCZZUU.TOP
+      - 亚太地区 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇬🇧 英国 伦敦Microsoft公司
-      - 🇺🇸 美国 CCZZUU.TOP
+      - 🇺🇸 美国 DXC Technology 2
       - 🇬🇧 英国 CCZZUU.TOP 3
       - 🇬🇧 英国 CCZZUU.TOP 4
       - 🇬🇧 英国 CCZZUU.TOP 5
-      - 🇺🇸 北美地区 CCZZUU.TOP
+      - 🇪🇸 西班牙 CCZZUU.TOP
+      - 🇬🇧 英国 伦敦Microsoft公司
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -43,18 +39,16 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 8元老牌专线机场：cczzuu.top
-      - 亚太地区 CCZZUU.TOP
+      - 🇺🇸 美国 DXC Technology
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
-      - 🇯🇵 日本 CCZZUU.TOP
-      - 🇪🇸 西班牙 CCZZUU.TOP
+      - 亚太地区 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇬🇧 英国 伦敦Microsoft公司
-      - 🇺🇸 美国 CCZZUU.TOP
+      - 🇺🇸 美国 DXC Technology 2
       - 🇬🇧 英国 CCZZUU.TOP 3
       - 🇬🇧 英国 CCZZUU.TOP 4
       - 🇬🇧 英国 CCZZUU.TOP 5
-      - 🇺🇸 北美地区 CCZZUU.TOP
+      - 🇪🇸 西班牙 CCZZUU.TOP
+      - 🇬🇧 英国 伦敦Microsoft公司
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -62,72 +56,64 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 亚太地区 CCZZUU.TOP
+      - 🇺🇸 美国 DXC Technology
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
-      - 🇯🇵 日本 CCZZUU.TOP
-      - 🇪🇸 西班牙 CCZZUU.TOP
+      - 亚太地区 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇬🇧 英国 伦敦Microsoft公司
-      - 🇺🇸 美国 CCZZUU.TOP
+      - 🇺🇸 美国 DXC Technology 2
       - 🇬🇧 英国 CCZZUU.TOP 3
       - 🇬🇧 英国 CCZZUU.TOP 4
       - 🇬🇧 英国 CCZZUU.TOP 5
-      - 🇺🇸 北美地区 CCZZUU.TOP
+      - 🇪🇸 西班牙 CCZZUU.TOP
+      - 🇬🇧 英国 伦敦Microsoft公司
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 亚太地区 CCZZUU.TOP
+      - 🇺🇸 美国 DXC Technology
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
-      - 🇯🇵 日本 CCZZUU.TOP
-      - 🇪🇸 西班牙 CCZZUU.TOP
+      - 亚太地区 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇬🇧 英国 伦敦Microsoft公司
-      - 🇺🇸 美国 CCZZUU.TOP
+      - 🇺🇸 美国 DXC Technology 2
       - 🇬🇧 英国 CCZZUU.TOP 3
       - 🇬🇧 英国 CCZZUU.TOP 4
       - 🇬🇧 英国 CCZZUU.TOP 5
-      - 🇺🇸 北美地区 CCZZUU.TOP
+      - 🇪🇸 西班牙 CCZZUU.TOP
+      - 🇬🇧 英国 伦敦Microsoft公司
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
       - 8元老牌专线机场：cczzuu.top
-      - 亚太地区 CCZZUU.TOP
+      - 🇺🇸 美国 DXC Technology
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
-      - 🇯🇵 日本 CCZZUU.TOP
-      - 🇪🇸 西班牙 CCZZUU.TOP
+      - 亚太地区 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇬🇧 英国 伦敦Microsoft公司
-      - 🇺🇸 美国 CCZZUU.TOP
+      - 🇺🇸 美国 DXC Technology 2
       - 🇬🇧 英国 CCZZUU.TOP 3
       - 🇬🇧 英国 CCZZUU.TOP 4
       - 🇬🇧 英国 CCZZUU.TOP 5
-      - 🇺🇸 北美地区 CCZZUU.TOP
+      - 🇪🇸 西班牙 CCZZUU.TOP
+      - 🇬🇧 英国 伦敦Microsoft公司
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 亚太地区 CCZZUU.TOP
+      - 🇺🇸 美国 DXC Technology
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
-      - 🇯🇵 日本 CCZZUU.TOP
-      - 🇪🇸 西班牙 CCZZUU.TOP
+      - 亚太地区 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇬🇧 英国 伦敦Microsoft公司
-      - 🇺🇸 美国 CCZZUU.TOP
+      - 🇺🇸 美国 DXC Technology 2
       - 🇬🇧 英国 CCZZUU.TOP 3
       - 🇬🇧 英国 CCZZUU.TOP 4
       - 🇬🇧 英国 CCZZUU.TOP 5
-      - 🇺🇸 北美地区 CCZZUU.TOP
+      - 🇪🇸 西班牙 CCZZUU.TOP
+      - 🇬🇧 英国 伦敦Microsoft公司
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -135,18 +121,16 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 8元老牌专线机场：cczzuu.top
-      - 亚太地区 CCZZUU.TOP
+      - 🇺🇸 美国 DXC Technology
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
-      - 🇯🇵 日本 CCZZUU.TOP
-      - 🇪🇸 西班牙 CCZZUU.TOP
+      - 亚太地区 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇬🇧 英国 伦敦Microsoft公司
-      - 🇺🇸 美国 CCZZUU.TOP
+      - 🇺🇸 美国 DXC Technology 2
       - 🇬🇧 英国 CCZZUU.TOP 3
       - 🇬🇧 英国 CCZZUU.TOP 4
       - 🇬🇧 英国 CCZZUU.TOP 5
-      - 🇺🇸 北美地区 CCZZUU.TOP
+      - 🇪🇸 西班牙 CCZZUU.TOP
+      - 🇬🇧 英国 伦敦Microsoft公司
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -170,18 +154,16 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 8元老牌专线机场：cczzuu.top
-      - 亚太地区 CCZZUU.TOP
+      - 🇺🇸 美国 DXC Technology
       - 🇬🇧 英国 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
-      - 🇯🇵 日本 CCZZUU.TOP
-      - 🇪🇸 西班牙 CCZZUU.TOP
+      - 亚太地区 CCZZUU.TOP
       - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇬🇧 英国 伦敦Microsoft公司
-      - 🇺🇸 美国 CCZZUU.TOP
+      - 🇺🇸 美国 DXC Technology 2
       - 🇬🇧 英国 CCZZUU.TOP 3
       - 🇬🇧 英国 CCZZUU.TOP 4
       - 🇬🇧 英国 CCZZUU.TOP 5
-      - 🇺🇸 北美地区 CCZZUU.TOP
+      - 🇪🇸 西班牙 CCZZUU.TOP
+      - 🇬🇧 英国 伦敦Microsoft公司
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

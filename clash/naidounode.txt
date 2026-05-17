@@ -5,26 +5,26 @@ log-level: info
 external-controller: :9090
 proxies:
   - {name: 8元老牌专线机场：cczzuu.top, server: efan.dnsefan04881.com, port: 7754, type: vmess, uuid: 009e558d-3cf4-49d8-b5e4-82c9e14fe1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇯🇵 日本 CCZZUU.TOP, server: 43.168.16.112, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: 172.64.152.100, port: 443, type: vless, uuid: d37a75db-76b6-4db8-b213-0d5b044d138d, tls: true, skip-cert-verify: true, servername: hio-awx.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: hio-awx.pages.dev}}, tfo: false}
-  - {name: 欧盟 CCZZUU.TOP, server: 45.85.119.191, port: 2096, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: true, skip-cert-verify: true, servername: sni.my111000.tech, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: sni.my111000.tech}}, tfo: false}
+  - {name: 🇨🇳 安徽省马鞍山市 联通, server: 103.186.155.67, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, tfo: false}
+  - {name: 🇬🇧 英国 CCZZUU.TOP, server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇩🇰 丹麦 CCZZUU.TOP, server: 185.162.229.238, port: 2096, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: true, skip-cert-verify: true, servername: sni.jpmj.dev, network: ws, ws-opts: {path: /, headers: {Host: sni.jpmj.dev}}, tfo: false}
+  - {name: 🇨🇳 安徽省马鞍山市 联通 2, server: 103.186.155.15, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, tfo: false}
+  - {name: 🇸🇬 新加坡 Digital Ocean数据中心, server: 178.128.90.108, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心, server: 142.93.23.229, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇳🇬 尼日利亚 CCZZUU.TOP, server: 83.229.121.78, port: 8443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇭🇰 香港 环球全域电讯, server: 221.125.10.8, port: 57537, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心 2, server: 165.227.26.242, port: 2083, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
   - {name: 🇺🇸 美国 华盛顿Cogent通信公司, server: 38.180.204.104, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇺🇸 美国 CCZZUU.TOP, server: 154.17.225.73, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇫🇷 法国 北部－加来海峡大区鲁贝OVH数据中心, server: 37.59.96.47, port: 443, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: true, skip-cert-verify: true, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.v6.navy}}, tfo: false}
+  - {name: 🇨🇳 安徽省马鞍山市 联通 3, server: 103.186.154.34, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, tfo: false}
   - {name: 🇰🇷 韩国 CCZZUU.TOP, server: 123.99.111.135, port: 19461, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇸🇬 新加坡 DigitalOcean数据中心, server: 159.89.207.154, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP 2, server: 82.38.31.66, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司, server: 166.62.112.253, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇺🇸 美国 CCZZUU.TOP 2, server: 159.246.55.238, port: 2096, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: true, skip-cert-verify: true, servername: sni.jpmj.dev, network: ws, ws-opts: {path: /, headers: {Host: sni.jpmj.dev}}, tfo: false}
-  - {name: 🇲🇩 摩尔多瓦 CCZZUU.TOP, server: 185.193.29.138, port: 2096, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: true, skip-cert-verify: true, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, tfo: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 104.18.173.174, port: 80, type: vless, uuid: 53342b53-157e-4475-9f3a-40439434e689, tls: false, skip-cert-verify: true, servername: c.iamdt.dpdns.org, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: c.iamdt.dpdns.org}}, tfo: false}
-  - {name: 🇨🇳 安徽省马鞍山市 联通, server: 103.186.155.52, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, tfo: false}
-  - {name: 🇨🇳 安徽省马鞍山市 联通 2, server: 103.186.154.38, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, tfo: false}
-  - {name: 🇺🇸 美国 伊利诺伊州库克与杜佩奇县芝加哥市Nobis技术集团有限公司Ubiquity芝加哥数据中心, server: 142.91.108.54, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇨🇳 安徽省马鞍山市 联通 3, server: 103.186.155.71, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, tfo: false}
-  - {name: 🇺🇸 美国 CCZZUU.TOP 3, server: 162.19.79.211, port: 8443, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: true, skip-cert-verify: true, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?Telegram🇨🇳 @WangCai2=", headers: {Host: sni.111000.v6.navy}}, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP 3, server: 25.26.27.191, port: 2096, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: true, skip-cert-verify: true, servername: sni.my111000.tech, network: ws, ws-opts: {path: /, headers: {Host: sni.my111000.tech}}, tfo: false}
+  - {name: 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心 3, server: 165.227.60.231, port: 2096, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇨🇳 安徽省马鞍山市 联通 4, server: 103.186.154.140, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, tfo: false}
+  - {name: 🇷🇺 俄罗斯 CCZZUU.TOP, server: fr.gryaz-vpn.com, port: 20567, type: vless, uuid: 40bf709c-4353-4552-ba26-406d2bf7821d, tls: true, flow: xtls-rprx-vision, skip-cert-verify: true, servername: cloudflare.com, reality-opts: {public-key: 1WOtQYIQ-3sJtbrhSA1LW6gAnO-wG0Z5aCnlL_zoiXQ, short-id: b82d7208fe23}, tfo: false}
+  - {name: 🇬🇷 希腊 CCZZUU.TOP, server: 92.118.126.170, port: 8443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇨🇳 安徽省马鞍山市 联通 5, server: 103.186.154.189, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, tfo: false}
+  - {name: 🇨🇳 安徽省马鞍山市 联通 6, server: 103.186.155.47, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, tfo: false}
+  - {name: 🇨🇳 安徽省马鞍山市 联通 7, server: 103.186.154.80, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, tfo: false}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.20.6.134, port: 443, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: true, skip-cert-verify: true, servername: sni.111000.v6.navy, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.v6.navy}}, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -32,26 +32,26 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - 8元老牌专线机场：cczzuu.top
-      - 🇯🇵 日本 CCZZUU.TOP
-      - 🇺🇸 美国 CloudFlare节点
-      - 欧盟 CCZZUU.TOP
-      - 🇺🇸 美国 华盛顿Cogent通信公司
-      - 🇺🇸 美国 CCZZUU.TOP
-      - 🇫🇷 法国 北部－加来海峡大区鲁贝OVH数据中心
-      - 🇰🇷 韩国 CCZZUU.TOP
-      - 🇸🇬 新加坡 DigitalOcean数据中心
-      - 🇬🇧 英国 CCZZUU.TOP
-      - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
-      - 🇺🇸 美国 CCZZUU.TOP 2
-      - 🇲🇩 摩尔多瓦 CCZZUU.TOP
-      - 🇺🇸 美国 CloudFlare节点 2
       - 🇨🇳 安徽省马鞍山市 联通
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇩🇰 丹麦 CCZZUU.TOP
       - 🇨🇳 安徽省马鞍山市 联通 2
-      - 🇺🇸 美国 伊利诺伊州库克与杜佩奇县芝加哥市Nobis技术集团有限公司Ubiquity芝加哥数据中心
+      - 🇸🇬 新加坡 Digital Ocean数据中心
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇳🇬 尼日利亚 CCZZUU.TOP
+      - 🇭🇰 香港 环球全域电讯
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心 2
+      - 🇺🇸 美国 华盛顿Cogent通信公司
       - 🇨🇳 安徽省马鞍山市 联通 3
-      - 🇺🇸 美国 CCZZUU.TOP 3
-      - 🇬🇧 英国 CCZZUU.TOP 3
+      - 🇰🇷 韩国 CCZZUU.TOP
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心 3
+      - 🇨🇳 安徽省马鞍山市 联通 4
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇬🇷 希腊 CCZZUU.TOP
+      - 🇨🇳 安徽省马鞍山市 联通 5
+      - 🇨🇳 安徽省马鞍山市 联通 6
+      - 🇨🇳 安徽省马鞍山市 联通 7
+      - 🇺🇸 美国 CloudFlare节点
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -59,26 +59,26 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 8元老牌专线机场：cczzuu.top
-      - 🇯🇵 日本 CCZZUU.TOP
-      - 🇺🇸 美国 CloudFlare节点
-      - 欧盟 CCZZUU.TOP
-      - 🇺🇸 美国 华盛顿Cogent通信公司
-      - 🇺🇸 美国 CCZZUU.TOP
-      - 🇫🇷 法国 北部－加来海峡大区鲁贝OVH数据中心
-      - 🇰🇷 韩国 CCZZUU.TOP
-      - 🇸🇬 新加坡 DigitalOcean数据中心
-      - 🇬🇧 英国 CCZZUU.TOP
-      - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
-      - 🇺🇸 美国 CCZZUU.TOP 2
-      - 🇲🇩 摩尔多瓦 CCZZUU.TOP
-      - 🇺🇸 美国 CloudFlare节点 2
       - 🇨🇳 安徽省马鞍山市 联通
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇩🇰 丹麦 CCZZUU.TOP
       - 🇨🇳 安徽省马鞍山市 联通 2
-      - 🇺🇸 美国 伊利诺伊州库克与杜佩奇县芝加哥市Nobis技术集团有限公司Ubiquity芝加哥数据中心
+      - 🇸🇬 新加坡 Digital Ocean数据中心
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇳🇬 尼日利亚 CCZZUU.TOP
+      - 🇭🇰 香港 环球全域电讯
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心 2
+      - 🇺🇸 美国 华盛顿Cogent通信公司
       - 🇨🇳 安徽省马鞍山市 联通 3
-      - 🇺🇸 美国 CCZZUU.TOP 3
-      - 🇬🇧 英国 CCZZUU.TOP 3
+      - 🇰🇷 韩国 CCZZUU.TOP
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心 3
+      - 🇨🇳 安徽省马鞍山市 联通 4
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇬🇷 希腊 CCZZUU.TOP
+      - 🇨🇳 安徽省马鞍山市 联通 5
+      - 🇨🇳 安徽省马鞍山市 联通 6
+      - 🇨🇳 安徽省马鞍山市 联通 7
+      - 🇺🇸 美国 CloudFlare节点
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -86,104 +86,104 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 🇯🇵 日本 CCZZUU.TOP
-      - 🇺🇸 美国 CloudFlare节点
-      - 欧盟 CCZZUU.TOP
-      - 🇺🇸 美国 华盛顿Cogent通信公司
-      - 🇺🇸 美国 CCZZUU.TOP
-      - 🇫🇷 法国 北部－加来海峡大区鲁贝OVH数据中心
-      - 🇰🇷 韩国 CCZZUU.TOP
-      - 🇸🇬 新加坡 DigitalOcean数据中心
-      - 🇬🇧 英国 CCZZUU.TOP
-      - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
-      - 🇺🇸 美国 CCZZUU.TOP 2
-      - 🇲🇩 摩尔多瓦 CCZZUU.TOP
-      - 🇺🇸 美国 CloudFlare节点 2
       - 🇨🇳 安徽省马鞍山市 联通
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇩🇰 丹麦 CCZZUU.TOP
       - 🇨🇳 安徽省马鞍山市 联通 2
-      - 🇺🇸 美国 伊利诺伊州库克与杜佩奇县芝加哥市Nobis技术集团有限公司Ubiquity芝加哥数据中心
+      - 🇸🇬 新加坡 Digital Ocean数据中心
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇳🇬 尼日利亚 CCZZUU.TOP
+      - 🇭🇰 香港 环球全域电讯
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心 2
+      - 🇺🇸 美国 华盛顿Cogent通信公司
       - 🇨🇳 安徽省马鞍山市 联通 3
-      - 🇺🇸 美国 CCZZUU.TOP 3
-      - 🇬🇧 英国 CCZZUU.TOP 3
+      - 🇰🇷 韩国 CCZZUU.TOP
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心 3
+      - 🇨🇳 安徽省马鞍山市 联通 4
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇬🇷 希腊 CCZZUU.TOP
+      - 🇨🇳 安徽省马鞍山市 联通 5
+      - 🇨🇳 安徽省马鞍山市 联通 6
+      - 🇨🇳 安徽省马鞍山市 联通 7
+      - 🇺🇸 美国 CloudFlare节点
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 🇯🇵 日本 CCZZUU.TOP
-      - 🇺🇸 美国 CloudFlare节点
-      - 欧盟 CCZZUU.TOP
-      - 🇺🇸 美国 华盛顿Cogent通信公司
-      - 🇺🇸 美国 CCZZUU.TOP
-      - 🇫🇷 法国 北部－加来海峡大区鲁贝OVH数据中心
-      - 🇰🇷 韩国 CCZZUU.TOP
-      - 🇸🇬 新加坡 DigitalOcean数据中心
-      - 🇬🇧 英国 CCZZUU.TOP
-      - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
-      - 🇺🇸 美国 CCZZUU.TOP 2
-      - 🇲🇩 摩尔多瓦 CCZZUU.TOP
-      - 🇺🇸 美国 CloudFlare节点 2
       - 🇨🇳 安徽省马鞍山市 联通
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇩🇰 丹麦 CCZZUU.TOP
       - 🇨🇳 安徽省马鞍山市 联通 2
-      - 🇺🇸 美国 伊利诺伊州库克与杜佩奇县芝加哥市Nobis技术集团有限公司Ubiquity芝加哥数据中心
+      - 🇸🇬 新加坡 Digital Ocean数据中心
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇳🇬 尼日利亚 CCZZUU.TOP
+      - 🇭🇰 香港 环球全域电讯
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心 2
+      - 🇺🇸 美国 华盛顿Cogent通信公司
       - 🇨🇳 安徽省马鞍山市 联通 3
-      - 🇺🇸 美国 CCZZUU.TOP 3
-      - 🇬🇧 英国 CCZZUU.TOP 3
+      - 🇰🇷 韩国 CCZZUU.TOP
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心 3
+      - 🇨🇳 安徽省马鞍山市 联通 4
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇬🇷 希腊 CCZZUU.TOP
+      - 🇨🇳 安徽省马鞍山市 联通 5
+      - 🇨🇳 安徽省马鞍山市 联通 6
+      - 🇨🇳 安徽省马鞍山市 联通 7
+      - 🇺🇸 美国 CloudFlare节点
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
       - 8元老牌专线机场：cczzuu.top
-      - 🇯🇵 日本 CCZZUU.TOP
-      - 🇺🇸 美国 CloudFlare节点
-      - 欧盟 CCZZUU.TOP
-      - 🇺🇸 美国 华盛顿Cogent通信公司
-      - 🇺🇸 美国 CCZZUU.TOP
-      - 🇫🇷 法国 北部－加来海峡大区鲁贝OVH数据中心
-      - 🇰🇷 韩国 CCZZUU.TOP
-      - 🇸🇬 新加坡 DigitalOcean数据中心
-      - 🇬🇧 英国 CCZZUU.TOP
-      - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
-      - 🇺🇸 美国 CCZZUU.TOP 2
-      - 🇲🇩 摩尔多瓦 CCZZUU.TOP
-      - 🇺🇸 美国 CloudFlare节点 2
       - 🇨🇳 安徽省马鞍山市 联通
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇩🇰 丹麦 CCZZUU.TOP
       - 🇨🇳 安徽省马鞍山市 联通 2
-      - 🇺🇸 美国 伊利诺伊州库克与杜佩奇县芝加哥市Nobis技术集团有限公司Ubiquity芝加哥数据中心
+      - 🇸🇬 新加坡 Digital Ocean数据中心
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇳🇬 尼日利亚 CCZZUU.TOP
+      - 🇭🇰 香港 环球全域电讯
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心 2
+      - 🇺🇸 美国 华盛顿Cogent通信公司
       - 🇨🇳 安徽省马鞍山市 联通 3
-      - 🇺🇸 美国 CCZZUU.TOP 3
-      - 🇬🇧 英国 CCZZUU.TOP 3
+      - 🇰🇷 韩国 CCZZUU.TOP
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心 3
+      - 🇨🇳 安徽省马鞍山市 联通 4
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇬🇷 希腊 CCZZUU.TOP
+      - 🇨🇳 安徽省马鞍山市 联通 5
+      - 🇨🇳 安徽省马鞍山市 联通 6
+      - 🇨🇳 安徽省马鞍山市 联通 7
+      - 🇺🇸 美国 CloudFlare节点
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 🇯🇵 日本 CCZZUU.TOP
-      - 🇺🇸 美国 CloudFlare节点
-      - 欧盟 CCZZUU.TOP
-      - 🇺🇸 美国 华盛顿Cogent通信公司
-      - 🇺🇸 美国 CCZZUU.TOP
-      - 🇫🇷 法国 北部－加来海峡大区鲁贝OVH数据中心
-      - 🇰🇷 韩国 CCZZUU.TOP
-      - 🇸🇬 新加坡 DigitalOcean数据中心
-      - 🇬🇧 英国 CCZZUU.TOP
-      - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
-      - 🇺🇸 美国 CCZZUU.TOP 2
-      - 🇲🇩 摩尔多瓦 CCZZUU.TOP
-      - 🇺🇸 美国 CloudFlare节点 2
       - 🇨🇳 安徽省马鞍山市 联通
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇩🇰 丹麦 CCZZUU.TOP
       - 🇨🇳 安徽省马鞍山市 联通 2
-      - 🇺🇸 美国 伊利诺伊州库克与杜佩奇县芝加哥市Nobis技术集团有限公司Ubiquity芝加哥数据中心
+      - 🇸🇬 新加坡 Digital Ocean数据中心
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇳🇬 尼日利亚 CCZZUU.TOP
+      - 🇭🇰 香港 环球全域电讯
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心 2
+      - 🇺🇸 美国 华盛顿Cogent通信公司
       - 🇨🇳 安徽省马鞍山市 联通 3
-      - 🇺🇸 美国 CCZZUU.TOP 3
-      - 🇬🇧 英国 CCZZUU.TOP 3
+      - 🇰🇷 韩国 CCZZUU.TOP
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心 3
+      - 🇨🇳 安徽省马鞍山市 联通 4
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇬🇷 希腊 CCZZUU.TOP
+      - 🇨🇳 安徽省马鞍山市 联通 5
+      - 🇨🇳 安徽省马鞍山市 联通 6
+      - 🇨🇳 安徽省马鞍山市 联通 7
+      - 🇺🇸 美国 CloudFlare节点
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -191,26 +191,26 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 8元老牌专线机场：cczzuu.top
-      - 🇯🇵 日本 CCZZUU.TOP
-      - 🇺🇸 美国 CloudFlare节点
-      - 欧盟 CCZZUU.TOP
-      - 🇺🇸 美国 华盛顿Cogent通信公司
-      - 🇺🇸 美国 CCZZUU.TOP
-      - 🇫🇷 法国 北部－加来海峡大区鲁贝OVH数据中心
-      - 🇰🇷 韩国 CCZZUU.TOP
-      - 🇸🇬 新加坡 DigitalOcean数据中心
-      - 🇬🇧 英国 CCZZUU.TOP
-      - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
-      - 🇺🇸 美国 CCZZUU.TOP 2
-      - 🇲🇩 摩尔多瓦 CCZZUU.TOP
-      - 🇺🇸 美国 CloudFlare节点 2
       - 🇨🇳 安徽省马鞍山市 联通
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇩🇰 丹麦 CCZZUU.TOP
       - 🇨🇳 安徽省马鞍山市 联通 2
-      - 🇺🇸 美国 伊利诺伊州库克与杜佩奇县芝加哥市Nobis技术集团有限公司Ubiquity芝加哥数据中心
+      - 🇸🇬 新加坡 Digital Ocean数据中心
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇳🇬 尼日利亚 CCZZUU.TOP
+      - 🇭🇰 香港 环球全域电讯
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心 2
+      - 🇺🇸 美国 华盛顿Cogent通信公司
       - 🇨🇳 安徽省马鞍山市 联通 3
-      - 🇺🇸 美国 CCZZUU.TOP 3
-      - 🇬🇧 英国 CCZZUU.TOP 3
+      - 🇰🇷 韩国 CCZZUU.TOP
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心 3
+      - 🇨🇳 安徽省马鞍山市 联通 4
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇬🇷 希腊 CCZZUU.TOP
+      - 🇨🇳 安徽省马鞍山市 联通 5
+      - 🇨🇳 安徽省马鞍山市 联通 6
+      - 🇨🇳 安徽省马鞍山市 联通 7
+      - 🇺🇸 美国 CloudFlare节点
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -234,26 +234,26 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 8元老牌专线机场：cczzuu.top
-      - 🇯🇵 日本 CCZZUU.TOP
-      - 🇺🇸 美国 CloudFlare节点
-      - 欧盟 CCZZUU.TOP
-      - 🇺🇸 美国 华盛顿Cogent通信公司
-      - 🇺🇸 美国 CCZZUU.TOP
-      - 🇫🇷 法国 北部－加来海峡大区鲁贝OVH数据中心
-      - 🇰🇷 韩国 CCZZUU.TOP
-      - 🇸🇬 新加坡 DigitalOcean数据中心
-      - 🇬🇧 英国 CCZZUU.TOP
-      - 🇬🇧 英国 CCZZUU.TOP 2
-      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
-      - 🇺🇸 美国 CCZZUU.TOP 2
-      - 🇲🇩 摩尔多瓦 CCZZUU.TOP
-      - 🇺🇸 美国 CloudFlare节点 2
       - 🇨🇳 安徽省马鞍山市 联通
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇩🇰 丹麦 CCZZUU.TOP
       - 🇨🇳 安徽省马鞍山市 联通 2
-      - 🇺🇸 美国 伊利诺伊州库克与杜佩奇县芝加哥市Nobis技术集团有限公司Ubiquity芝加哥数据中心
+      - 🇸🇬 新加坡 Digital Ocean数据中心
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇳🇬 尼日利亚 CCZZUU.TOP
+      - 🇭🇰 香港 环球全域电讯
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心 2
+      - 🇺🇸 美国 华盛顿Cogent通信公司
       - 🇨🇳 安徽省马鞍山市 联通 3
-      - 🇺🇸 美国 CCZZUU.TOP 3
-      - 🇬🇧 英国 CCZZUU.TOP 3
+      - 🇰🇷 韩国 CCZZUU.TOP
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心 3
+      - 🇨🇳 安徽省马鞍山市 联通 4
+      - 🇷🇺 俄罗斯 CCZZUU.TOP
+      - 🇬🇷 希腊 CCZZUU.TOP
+      - 🇨🇳 安徽省马鞍山市 联通 5
+      - 🇨🇳 安徽省马鞍山市 联通 6
+      - 🇨🇳 安徽省马鞍山市 联通 7
+      - 🇺🇸 美国 CloudFlare节点
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

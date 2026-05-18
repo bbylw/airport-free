@@ -5,26 +5,26 @@ log-level: info
 external-controller: :9090
 proxies:
   - {name: 8元老牌专线机场：cczzuu.top, server: efan.dnsefan04881.com, port: 7754, type: vmess, uuid: 009e558d-3cf4-49d8-b5e4-82c9e14fe1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇺🇸 美国 CCZZUU.TOP, server: 162.19.78.179, port: 2053, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: true, skip-cert-verify: true, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2=", headers: {Host: sni.111000.v6.navy}}, tfo: false}
-  - {name: 🇺🇸 美国 CCZZUU.TOP 2, server: 167.68.5.191, port: 2096, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: true, skip-cert-verify: true, servername: sni.my111000.tech, network: ws, ws-opts: {path: /, headers: {Host: sni.my111000.tech}}, tfo: false}
-  - {name: 欧盟 CCZZUU.TOP, server: 45.85.119.191, port: 2096, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: true, skip-cert-verify: true, servername: sni.my111000.tech, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: sni.my111000.tech}}, tfo: false}
-  - {name: 🇸🇬 新加坡 Digital Ocean数据中心, server: 165.22.248.134, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇺🇸 美国 CCZZUU.TOP, server: 167.71.169.92, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司, server: 50.62.89.253, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇭🇰 香港 特别行政区, server: 62.60.245.69, port: 443, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: true, skip-cert-verify: true, servername: sni.latonyamadeline.ndjp.net, network: ws, ws-opts: {path: /, headers: {Host: sni.latonyamadeline.ndjp.net}}, tfo: false}
+  - {name: 5@oneclickvpnkeys, server: 212.192.13.242, port: 4433, type: hysteria2, ports: 4433, password: 2545ab46-6306-4f2b-badd-5531f384d55f, sni: hk1.xiaoliyu.cyou, skip-cert-verify: true, tfo: false}
+  - {name: 🇩🇰 丹麦 CCZZUU.TOP, server: 80.209.240.188, port: 8443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇿🇦 南非 CCZZUU.TOP, server: 154.197.80.253, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇫🇷 法国 格拉沃利讷OVH数据中心, server: 54.36.98.30, port: 2053, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: true, skip-cert-verify: true, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?Telegram🇨🇳+@WangCai2=", headers: {Host: sni.111000.v6.navy}}, tfo: false}
   - {name: 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心, server: 192.241.207.118, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇺🇸 北美地区 CCZZUU.TOP, server: 23.175.201.2, port: 8443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇭🇰 香港 阿里云, server: 47.82.155.79, port: 8443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP, server: 82.198.246.9, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇸🇬 新加坡 DigitalOcean数据中心, server: 209.97.170.177, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司, server: 104.238.69.253, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇺🇸 美国 CCZZUU.TOP 3, server: 216.128.134.116, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇺🇸 美国 CCZZUU.TOP 4, server: 64.110.104.30, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇪🇸 西班牙 CCZZUU.TOP, server: 150.241.108.1, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇺🇸 美国 德克萨斯州达拉斯QuadraNet数据中心, server: 204.44.122.127, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.20.6.134, port: 2086, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, skip-cert-verify: true, servername: index.0x15.workers.dev, network: ws, ws-opts: {path: /PdgTMW8NBNZYo6L23v, headers: {Host: index.0x15.workers.dev}}, tfo: false}
-  - {name: 🇩🇪 德国 CCZZUU.TOP, server: download.spectrum.vu, port: 443, type: vless, uuid: 76713d07-5a6b-49c2-abd8-bc450a2fa7fc, tls: true, flow: xtls-rprx-vision, skip-cert-verify: true, servername: download.spectrum.vu, client-fingerprint: chrome, reality-opts: {public-key: sXC7sPCzHG_uYfvk3GSUdYQKfHAwirOVWMhO50Y9Pn8, short-id: d1e9faa1b2c3}, tfo: false}
-  - {name: 🇺🇸 美国 CCZZUU.TOP 5, server: 69.164.245.25, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇺🇸 美国 加利福尼亚州洛杉矶QuadraNet数据中心, server: s473.ccgfw.top, port: 443, type: vless, uuid: 8f8ccdc5-fe99-38d7-a8a6-422f8c88ef0a, tls: true, flow: xtls-rprx-vision, skip-cert-verify: true, servername: efc5s473.ccgfw.top, client-fingerprint: random, tfo: false}
   - {name: 🇺🇸 美国 加利福尼亚, server: 64.188.98.29, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 7@oneclickvpnkeys, server: 193.123.78.85, port: 2056, type: hysteria2, ports: 2056, password: 4d092122-268a-4a1a-b23f-83931c5abc3a, sni: db1.mangshe.xyz, skip-cert-verify: true, tfo: false}
-  - {name: 🇭🇰 香港 电讯盈科有限公司, server: 219.76.13.180, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇬🇧 英国 CCZZUU.TOP, server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 6@oneclickvpnkeys, server: 68.233.103.254, port: 4433, type: hysteria2, ports: 4433, password: 2545ab46-6306-4f2b-badd-5531f384d55f, sni: ln4.xiaoliyu.cyou, skip-cert-verify: true, tfo: false}
+  - {name: 🇨🇳 中国 阿里云, server: 8.223.63.150, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇺🇸 美国 CCZZUU.TOP 2, server: 216.173.71.221, port: 8443, type: trojan, password: !<str> 162534, sni: cchh2.pages.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/?https://t.me/WangCai2🇨🇳=", headers: {Host: cchh2.pages.dev}}, tfo: false}
+  - {name: 🇺🇸 美国 佛罗里达州迈阿密市, server: 72.56.110.162, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇺🇸 美国 CCZZUU.TOP 3, server: 149.28.255.6, port: 816, type: ss, cipher: chacha20-ietf-poly1305, password: GyZ5Xo0ht41vYmW3H4, tfo: false}
+  - {name: 🇬🇧 英国 CCZZUU.TOP 2, server: 83.229.126.127, port: 32237, type: vless, uuid: 73bcd72f-9545-4cb8-8daf-7d004501880d, tls: true, skip-cert-verify: true, servername: dcsrzh.ccwu.cc, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: dcsrzh.ccwu.cc}}, tfo: false}
+  - {name: 🇧🇷 巴西圣保罗 CloudFlare节点, server: 188.114.98.0, port: 8443, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: true, skip-cert-verify: true, servername: sni.111000.dynv6.net, network: ws, ws-opts: {path: "/?Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.dynv6.net}}, tfo: false}
+  - {name: 🇺🇸 美国 CCZZUU.TOP 4, server: 146.190.102.51, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.20.6.134, port: 2096, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: true, skip-cert-verify: true, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -33,25 +33,25 @@ proxy-groups:
       - DIRECT
       - 8元老牌专线机场：cczzuu.top
       - 🇺🇸 美国 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP 2
-      - 欧盟 CCZZUU.TOP
-      - 🇸🇬 新加坡 Digital Ocean数据中心
-      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
-      - 🇺🇸 北美地区 CCZZUU.TOP
-      - 🇭🇰 香港 阿里云
-      - 🇬🇧 英国 CCZZUU.TOP
-      - 🇸🇬 新加坡 DigitalOcean数据中心
       - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
-      - 🇺🇸 美国 CCZZUU.TOP 3
-      - 🇺🇸 美国 CCZZUU.TOP 4
-      - 🇪🇸 西班牙 CCZZUU.TOP
-      - 🇺🇸 美国 德克萨斯州达拉斯QuadraNet数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇩🇪 德国 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP 5
+      - 🇭🇰 香港 特别行政区
+      - 5@oneclickvpnkeys
+      - 🇩🇰 丹麦 CCZZUU.TOP
+      - 🇿🇦 南非 CCZZUU.TOP
+      - 🇫🇷 法国 格拉沃利讷OVH数据中心
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇺🇸 美国 加利福尼亚州洛杉矶QuadraNet数据中心
       - 🇺🇸 美国 加利福尼亚
-      - 7@oneclickvpnkeys
-      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 6@oneclickvpnkeys
+      - 🇨🇳 中国 阿里云
+      - 🇺🇸 美国 CCZZUU.TOP 2
+      - 🇺🇸 美国 佛罗里达州迈阿密市
+      - 🇺🇸 美国 CCZZUU.TOP 3
+      - 🇬🇧 英国 CCZZUU.TOP 2
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇺🇸 美国 CCZZUU.TOP 4
+      - 🇺🇸 美国 CloudFlare节点
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -60,25 +60,25 @@ proxy-groups:
     proxies:
       - 8元老牌专线机场：cczzuu.top
       - 🇺🇸 美国 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP 2
-      - 欧盟 CCZZUU.TOP
-      - 🇸🇬 新加坡 Digital Ocean数据中心
-      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
-      - 🇺🇸 北美地区 CCZZUU.TOP
-      - 🇭🇰 香港 阿里云
-      - 🇬🇧 英国 CCZZUU.TOP
-      - 🇸🇬 新加坡 DigitalOcean数据中心
       - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
-      - 🇺🇸 美国 CCZZUU.TOP 3
-      - 🇺🇸 美国 CCZZUU.TOP 4
-      - 🇪🇸 西班牙 CCZZUU.TOP
-      - 🇺🇸 美国 德克萨斯州达拉斯QuadraNet数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇩🇪 德国 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP 5
+      - 🇭🇰 香港 特别行政区
+      - 5@oneclickvpnkeys
+      - 🇩🇰 丹麦 CCZZUU.TOP
+      - 🇿🇦 南非 CCZZUU.TOP
+      - 🇫🇷 法国 格拉沃利讷OVH数据中心
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇺🇸 美国 加利福尼亚州洛杉矶QuadraNet数据中心
       - 🇺🇸 美国 加利福尼亚
-      - 7@oneclickvpnkeys
-      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 6@oneclickvpnkeys
+      - 🇨🇳 中国 阿里云
+      - 🇺🇸 美国 CCZZUU.TOP 2
+      - 🇺🇸 美国 佛罗里达州迈阿密市
+      - 🇺🇸 美国 CCZZUU.TOP 3
+      - 🇬🇧 英国 CCZZUU.TOP 2
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇺🇸 美国 CCZZUU.TOP 4
+      - 🇺🇸 美国 CloudFlare节点
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -87,25 +87,25 @@ proxy-groups:
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
       - 🇺🇸 美国 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP 2
-      - 欧盟 CCZZUU.TOP
-      - 🇸🇬 新加坡 Digital Ocean数据中心
-      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
-      - 🇺🇸 北美地区 CCZZUU.TOP
-      - 🇭🇰 香港 阿里云
-      - 🇬🇧 英国 CCZZUU.TOP
-      - 🇸🇬 新加坡 DigitalOcean数据中心
       - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
-      - 🇺🇸 美国 CCZZUU.TOP 3
-      - 🇺🇸 美国 CCZZUU.TOP 4
-      - 🇪🇸 西班牙 CCZZUU.TOP
-      - 🇺🇸 美国 德克萨斯州达拉斯QuadraNet数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇩🇪 德国 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP 5
+      - 🇭🇰 香港 特别行政区
+      - 5@oneclickvpnkeys
+      - 🇩🇰 丹麦 CCZZUU.TOP
+      - 🇿🇦 南非 CCZZUU.TOP
+      - 🇫🇷 法国 格拉沃利讷OVH数据中心
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇺🇸 美国 加利福尼亚州洛杉矶QuadraNet数据中心
       - 🇺🇸 美国 加利福尼亚
-      - 7@oneclickvpnkeys
-      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 6@oneclickvpnkeys
+      - 🇨🇳 中国 阿里云
+      - 🇺🇸 美国 CCZZUU.TOP 2
+      - 🇺🇸 美国 佛罗里达州迈阿密市
+      - 🇺🇸 美国 CCZZUU.TOP 3
+      - 🇬🇧 英国 CCZZUU.TOP 2
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇺🇸 美国 CCZZUU.TOP 4
+      - 🇺🇸 美国 CloudFlare节点
   - name: 📲 电报信息
     type: select
     proxies:
@@ -113,25 +113,25 @@ proxy-groups:
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
       - 🇺🇸 美国 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP 2
-      - 欧盟 CCZZUU.TOP
-      - 🇸🇬 新加坡 Digital Ocean数据中心
-      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
-      - 🇺🇸 北美地区 CCZZUU.TOP
-      - 🇭🇰 香港 阿里云
-      - 🇬🇧 英国 CCZZUU.TOP
-      - 🇸🇬 新加坡 DigitalOcean数据中心
       - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
-      - 🇺🇸 美国 CCZZUU.TOP 3
-      - 🇺🇸 美国 CCZZUU.TOP 4
-      - 🇪🇸 西班牙 CCZZUU.TOP
-      - 🇺🇸 美国 德克萨斯州达拉斯QuadraNet数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇩🇪 德国 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP 5
+      - 🇭🇰 香港 特别行政区
+      - 5@oneclickvpnkeys
+      - 🇩🇰 丹麦 CCZZUU.TOP
+      - 🇿🇦 南非 CCZZUU.TOP
+      - 🇫🇷 法国 格拉沃利讷OVH数据中心
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇺🇸 美国 加利福尼亚州洛杉矶QuadraNet数据中心
       - 🇺🇸 美国 加利福尼亚
-      - 7@oneclickvpnkeys
-      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 6@oneclickvpnkeys
+      - 🇨🇳 中国 阿里云
+      - 🇺🇸 美国 CCZZUU.TOP 2
+      - 🇺🇸 美国 佛罗里达州迈阿密市
+      - 🇺🇸 美国 CCZZUU.TOP 3
+      - 🇬🇧 英国 CCZZUU.TOP 2
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇺🇸 美国 CCZZUU.TOP 4
+      - 🇺🇸 美国 CloudFlare节点
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -139,25 +139,25 @@ proxy-groups:
       - 🚀 节点选择
       - 8元老牌专线机场：cczzuu.top
       - 🇺🇸 美国 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP 2
-      - 欧盟 CCZZUU.TOP
-      - 🇸🇬 新加坡 Digital Ocean数据中心
-      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
-      - 🇺🇸 北美地区 CCZZUU.TOP
-      - 🇭🇰 香港 阿里云
-      - 🇬🇧 英国 CCZZUU.TOP
-      - 🇸🇬 新加坡 DigitalOcean数据中心
       - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
-      - 🇺🇸 美国 CCZZUU.TOP 3
-      - 🇺🇸 美国 CCZZUU.TOP 4
-      - 🇪🇸 西班牙 CCZZUU.TOP
-      - 🇺🇸 美国 德克萨斯州达拉斯QuadraNet数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇩🇪 德国 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP 5
+      - 🇭🇰 香港 特别行政区
+      - 5@oneclickvpnkeys
+      - 🇩🇰 丹麦 CCZZUU.TOP
+      - 🇿🇦 南非 CCZZUU.TOP
+      - 🇫🇷 法国 格拉沃利讷OVH数据中心
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇺🇸 美国 加利福尼亚州洛杉矶QuadraNet数据中心
       - 🇺🇸 美国 加利福尼亚
-      - 7@oneclickvpnkeys
-      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 6@oneclickvpnkeys
+      - 🇨🇳 中国 阿里云
+      - 🇺🇸 美国 CCZZUU.TOP 2
+      - 🇺🇸 美国 佛罗里达州迈阿密市
+      - 🇺🇸 美国 CCZZUU.TOP 3
+      - 🇬🇧 英国 CCZZUU.TOP 2
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇺🇸 美国 CCZZUU.TOP 4
+      - 🇺🇸 美国 CloudFlare节点
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -165,25 +165,25 @@ proxy-groups:
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
       - 🇺🇸 美国 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP 2
-      - 欧盟 CCZZUU.TOP
-      - 🇸🇬 新加坡 Digital Ocean数据中心
-      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
-      - 🇺🇸 北美地区 CCZZUU.TOP
-      - 🇭🇰 香港 阿里云
-      - 🇬🇧 英国 CCZZUU.TOP
-      - 🇸🇬 新加坡 DigitalOcean数据中心
       - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
-      - 🇺🇸 美国 CCZZUU.TOP 3
-      - 🇺🇸 美国 CCZZUU.TOP 4
-      - 🇪🇸 西班牙 CCZZUU.TOP
-      - 🇺🇸 美国 德克萨斯州达拉斯QuadraNet数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇩🇪 德国 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP 5
+      - 🇭🇰 香港 特别行政区
+      - 5@oneclickvpnkeys
+      - 🇩🇰 丹麦 CCZZUU.TOP
+      - 🇿🇦 南非 CCZZUU.TOP
+      - 🇫🇷 法国 格拉沃利讷OVH数据中心
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇺🇸 美国 加利福尼亚州洛杉矶QuadraNet数据中心
       - 🇺🇸 美国 加利福尼亚
-      - 7@oneclickvpnkeys
-      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 6@oneclickvpnkeys
+      - 🇨🇳 中国 阿里云
+      - 🇺🇸 美国 CCZZUU.TOP 2
+      - 🇺🇸 美国 佛罗里达州迈阿密市
+      - 🇺🇸 美国 CCZZUU.TOP 3
+      - 🇬🇧 英国 CCZZUU.TOP 2
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇺🇸 美国 CCZZUU.TOP 4
+      - 🇺🇸 美国 CloudFlare节点
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -192,25 +192,25 @@ proxy-groups:
       - ♻️ 自动选择
       - 8元老牌专线机场：cczzuu.top
       - 🇺🇸 美国 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP 2
-      - 欧盟 CCZZUU.TOP
-      - 🇸🇬 新加坡 Digital Ocean数据中心
-      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
-      - 🇺🇸 北美地区 CCZZUU.TOP
-      - 🇭🇰 香港 阿里云
-      - 🇬🇧 英国 CCZZUU.TOP
-      - 🇸🇬 新加坡 DigitalOcean数据中心
       - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
-      - 🇺🇸 美国 CCZZUU.TOP 3
-      - 🇺🇸 美国 CCZZUU.TOP 4
-      - 🇪🇸 西班牙 CCZZUU.TOP
-      - 🇺🇸 美国 德克萨斯州达拉斯QuadraNet数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇩🇪 德国 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP 5
+      - 🇭🇰 香港 特别行政区
+      - 5@oneclickvpnkeys
+      - 🇩🇰 丹麦 CCZZUU.TOP
+      - 🇿🇦 南非 CCZZUU.TOP
+      - 🇫🇷 法国 格拉沃利讷OVH数据中心
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇺🇸 美国 加利福尼亚州洛杉矶QuadraNet数据中心
       - 🇺🇸 美国 加利福尼亚
-      - 7@oneclickvpnkeys
-      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 6@oneclickvpnkeys
+      - 🇨🇳 中国 阿里云
+      - 🇺🇸 美国 CCZZUU.TOP 2
+      - 🇺🇸 美国 佛罗里达州迈阿密市
+      - 🇺🇸 美国 CCZZUU.TOP 3
+      - 🇬🇧 英国 CCZZUU.TOP 2
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇺🇸 美国 CCZZUU.TOP 4
+      - 🇺🇸 美国 CloudFlare节点
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -235,25 +235,25 @@ proxy-groups:
       - ♻️ 自动选择
       - 8元老牌专线机场：cczzuu.top
       - 🇺🇸 美国 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP 2
-      - 欧盟 CCZZUU.TOP
-      - 🇸🇬 新加坡 Digital Ocean数据中心
-      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
-      - 🇺🇸 北美地区 CCZZUU.TOP
-      - 🇭🇰 香港 阿里云
-      - 🇬🇧 英国 CCZZUU.TOP
-      - 🇸🇬 新加坡 DigitalOcean数据中心
       - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
-      - 🇺🇸 美国 CCZZUU.TOP 3
-      - 🇺🇸 美国 CCZZUU.TOP 4
-      - 🇪🇸 西班牙 CCZZUU.TOP
-      - 🇺🇸 美国 德克萨斯州达拉斯QuadraNet数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇩🇪 德国 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP 5
+      - 🇭🇰 香港 特别行政区
+      - 5@oneclickvpnkeys
+      - 🇩🇰 丹麦 CCZZUU.TOP
+      - 🇿🇦 南非 CCZZUU.TOP
+      - 🇫🇷 法国 格拉沃利讷OVH数据中心
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇺🇸 美国 加利福尼亚州洛杉矶QuadraNet数据中心
       - 🇺🇸 美国 加利福尼亚
-      - 7@oneclickvpnkeys
-      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 6@oneclickvpnkeys
+      - 🇨🇳 中国 阿里云
+      - 🇺🇸 美国 CCZZUU.TOP 2
+      - 🇺🇸 美国 佛罗里达州迈阿密市
+      - 🇺🇸 美国 CCZZUU.TOP 3
+      - 🇬🇧 英国 CCZZUU.TOP 2
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇺🇸 美国 CCZZUU.TOP 4
+      - 🇺🇸 美国 CloudFlare节点
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

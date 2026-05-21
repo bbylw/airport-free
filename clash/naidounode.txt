@@ -5,26 +5,25 @@ log-level: info
 external-controller: :9090
 proxies:
   - {name: 8元老牌专线机场：cczzuu.top, server: efan.dnsefan04881.com, port: 7754, type: vmess, uuid: 009e558d-3cf4-49d8-b5e4-82c9e14fe1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇮🇷 伊朗 CCZZUU.TOP, server: 83.147.253.124, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇸🇪 瑞典 CCZZUU.TOP, server: 148.135.70.157, port: 8443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇺🇸 美国 CCZZUU.TOP, server: ru3.banovano.space, port: 443, type: vless, uuid: dc540911-cd1d-41e9-9301-ecb5a507b788, tls: true, flow: xtls-rprx-vision, skip-cert-verify: true, servername: www.icloud.com, client-fingerprint: chrome, reality-opts: {public-key: JbxZQuL2t4eews1QuA8O4jpsU_NXPMpmzKwlxSQj5Sk, short-id: f690c1046814dc9d}, tfo: false}
-  - {name: 🇺🇸 美国 纽约DigitalOcean数据中心, server: 142.93.176.217, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇷🇺 俄罗斯 CCZZUU.TOP, server: 92.243.75.253, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇳🇱 荷兰 CCZZUU.TOP, server: 188.164.248.50, port: 8880, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: false, skip-cert-verify: true, servername: vms.lifetime26.workers.dev, network: ws, ws-opts: {path: "/?ed=2560&https://t.me/YouTube@小青科学网🇨🇳", headers: {Host: vms.lifetime26.workers.dev}}, tfo: false}
-  - {name: 🇷🇺 俄罗斯 CCZZUU.TOP 2, server: 213.219.247.50, port: 8880, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: false, skip-cert-verify: true, servername: vms.lifetime26.workers.dev, network: ws, ws-opts: {path: "/?ed=2560&https://t.me/YouTube@小青科学网🇨🇳", headers: {Host: vms.lifetime26.workers.dev}}, tfo: false}
-  - {name: 🇷🇺 俄罗斯 CCZZUU.TOP 3, server: 194.58.41.60, port: 8443, type: vless, uuid: 26e4d8b5-ee98-4a8d-88c9-7f81b7be3379, tls: true, flow: xtls-rprx-vision, skip-cert-verify: true, servername: eh.vk.com, client-fingerprint: chrome, reality-opts: {public-key: GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4, short-id: b3a1cc510a2001c6}, tfo: false}
-  - {name: 🇺🇸 美国 加利福尼亚州洛杉矶DigitalOcean数据中心, server: 178.128.70.6, port: 2053, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇳🇱 荷兰 CCZZUU.TOP 2, server: 188.164.248.40, port: 8880, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: false, skip-cert-verify: true, servername: vms.lifetime26.workers.dev, network: ws, ws-opts: {path: "/?ed=2560&https://t.me/YouTube@小青科学网🇨🇳", headers: {Host: vms.lifetime26.workers.dev}}, tfo: false}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: 172.64.147.15, port: 80, type: vless, uuid: 478cc26d-16b3-4fdd-be64-60d5a58c1622, tls: false, skip-cert-verify: true, servername: tt.andishehparenting.com, network: ws, ws-opts: {path: /, headers: {Host: tt.andishehparenting.com}}, tfo: false}
-  - {name: 🇭🇰 香港 ThinkDream数据中心, server: 27.50.48.253, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇺🇸 美国 Vegasnap公司, server: 104.129.167.253, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/tr | 免费机场TG@proxyshareCN | ", headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇩🇪 德国 CCZZUU.TOP, server: 91.206.71.50, port: 8880, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: false, skip-cert-verify: true, servername: vms.lifetime15.workers.dev, network: ws, ws-opts: {path: "/?ed=2560&https://t.me/YouTube@小青科学网🇨🇳", headers: {Host: vms.lifetime15.workers.dev}}, tfo: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 173.245.59.253, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇮🇷 伊朗 CCZZUU.TOP 2, server: 83.147.253.187, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇬🇧 英国 CCZZUU.TOP, server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 104.20.5.134, port: 2052, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, skip-cert-verify: true, servername: index.0x14.workers.dev, network: ws, ws-opts: {path: /assets, headers: {Host: index.0x14.workers.dev}}, tfo: false}
-  - {name: 🇭🇰 香港 阿里云, server: 47.79.85.210, port: 11307, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 4, server: 172.64.152.23, port: 2096, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /tr, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇭🇰 香港 电讯盈科有限公司, server: 219.76.13.177, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: 108.162.198.253, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇸🇪 瑞典 CCZZUU.TOP, server: 148.135.119.123, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 104.20.5.134, port: 2053, type: vless, uuid: d37a75db-76b6-4db8-b213-0d5b044d138d, tls: true, skip-cert-verify: true, servername: hio-awx.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: hio-awx.pages.dev}}, tfo: false}
+  - {name: 🇸🇪 瑞典 CCZZUU.TOP 2, server: 185.130.46.81, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇦🇺 澳大利亚 CCZZUU.TOP, server: 159.255.32.113, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心, server: 165.227.60.231, port: 2083, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇦🇺 澳大利亚 CCZZUU.TOP 2, server: 140.83.50.165, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇫🇷 法国 CCZZUU.TOP, server: 51.89.226.75, port: 2083, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇺🇸 美国 CloudFlare节点 3, server: ciallo-egb.pages.dev, port: 2096, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, skip-cert-verify: true, servername: CIALlO-EgB.pAGES.dEV, network: ws, ws-opts: {path: /, headers: {Host: CIALlO-EgB.pAGES.dEV}}, tfo: false}
+  - {name: 🇬🇧 英国 CCZZUU.TOP, server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇺🇦 乌克兰 CCZZUU.TOP, server: 2.56.91.49, port: 2053, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇸🇬 新加坡 DigitalOcean数据中心, server: 209.97.163.209, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇺🇸 美国 纽约州伊利县威廉斯维尔村ColoCrossing有限公司, server: 172.245.246.110, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇮🇷 伊朗 CCZZUU.TOP, server: 31.58.226.196, port: 8443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇺🇸 美国 Vegasnap公司, server: 104.129.164.138, port: 2096, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: true, skip-cert-verify: true, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?telegram🇨🇳+@wangcai2=", headers: {Host: sni.111000.indevs.in}}, tfo: false}
+  - {name: 🇮🇷 伊朗 CCZZUU.TOP 2, server: 151.243.101.40, port: 8443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳+@WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
+  - {name: 🇯🇵 日本 CCZZUU.TOP, server: 210.156.180.102, port: 16090, type: vless, uuid: 73bcd72f-9545-4cb8-8daf-7d004501880d, tls: true, skip-cert-verify: true, servername: dcsrzh.ccwu.cc, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: dcsrzh.ccwu.cc}}, tfo: false}
+  - {name: 🇯🇵 日本 CCZZUU.TOP 2, server: 43.170.25.96, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: true, network: ws, ws-opts: {path: /trTelegram🇨🇳 @WangCai2, headers: {Host: Koma-YT.PAGeS.Dev}}, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -32,26 +31,25 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - 8元老牌专线机场：cczzuu.top
-      - 🇮🇷 伊朗 CCZZUU.TOP
-      - 🇸🇪 瑞典 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP
-      - 🇺🇸 美国 纽约DigitalOcean数据中心
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
-      - 🇳🇱 荷兰 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP 2
-      - 🇷🇺 俄罗斯 CCZZUU.TOP 3
-      - 🇺🇸 美国 加利福尼亚州洛杉矶DigitalOcean数据中心
-      - 🇳🇱 荷兰 CCZZUU.TOP 2
+      - 🇭🇰 香港 电讯盈科有限公司
       - 🇺🇸 美国 CloudFlare节点
-      - 🇭🇰 香港 ThinkDream数据中心
-      - 🇺🇸 美国 Vegasnap公司
-      - 🇩🇪 德国 CCZZUU.TOP
+      - 🇸🇪 瑞典 CCZZUU.TOP
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇮🇷 伊朗 CCZZUU.TOP 2
-      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇸🇪 瑞典 CCZZUU.TOP 2
+      - 🇦🇺 澳大利亚 CCZZUU.TOP
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇦🇺 澳大利亚 CCZZUU.TOP 2
+      - 🇫🇷 法国 CCZZUU.TOP
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇭🇰 香港 阿里云
-      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇺🇦 乌克兰 CCZZUU.TOP
+      - 🇸🇬 新加坡 DigitalOcean数据中心
+      - 🇺🇸 美国 纽约州伊利县威廉斯维尔村ColoCrossing有限公司
+      - 🇮🇷 伊朗 CCZZUU.TOP
+      - 🇺🇸 美国 Vegasnap公司
+      - 🇮🇷 伊朗 CCZZUU.TOP 2
+      - 🇯🇵 日本 CCZZUU.TOP
+      - 🇯🇵 日本 CCZZUU.TOP 2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -59,26 +57,25 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 8元老牌专线机场：cczzuu.top
-      - 🇮🇷 伊朗 CCZZUU.TOP
-      - 🇸🇪 瑞典 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP
-      - 🇺🇸 美国 纽约DigitalOcean数据中心
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
-      - 🇳🇱 荷兰 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP 2
-      - 🇷🇺 俄罗斯 CCZZUU.TOP 3
-      - 🇺🇸 美国 加利福尼亚州洛杉矶DigitalOcean数据中心
-      - 🇳🇱 荷兰 CCZZUU.TOP 2
+      - 🇭🇰 香港 电讯盈科有限公司
       - 🇺🇸 美国 CloudFlare节点
-      - 🇭🇰 香港 ThinkDream数据中心
-      - 🇺🇸 美国 Vegasnap公司
-      - 🇩🇪 德国 CCZZUU.TOP
+      - 🇸🇪 瑞典 CCZZUU.TOP
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇮🇷 伊朗 CCZZUU.TOP 2
-      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇸🇪 瑞典 CCZZUU.TOP 2
+      - 🇦🇺 澳大利亚 CCZZUU.TOP
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇦🇺 澳大利亚 CCZZUU.TOP 2
+      - 🇫🇷 法国 CCZZUU.TOP
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇭🇰 香港 阿里云
-      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇺🇦 乌克兰 CCZZUU.TOP
+      - 🇸🇬 新加坡 DigitalOcean数据中心
+      - 🇺🇸 美国 纽约州伊利县威廉斯维尔村ColoCrossing有限公司
+      - 🇮🇷 伊朗 CCZZUU.TOP
+      - 🇺🇸 美国 Vegasnap公司
+      - 🇮🇷 伊朗 CCZZUU.TOP 2
+      - 🇯🇵 日本 CCZZUU.TOP
+      - 🇯🇵 日本 CCZZUU.TOP 2
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -86,104 +83,100 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 🇮🇷 伊朗 CCZZUU.TOP
-      - 🇸🇪 瑞典 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP
-      - 🇺🇸 美国 纽约DigitalOcean数据中心
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
-      - 🇳🇱 荷兰 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP 2
-      - 🇷🇺 俄罗斯 CCZZUU.TOP 3
-      - 🇺🇸 美国 加利福尼亚州洛杉矶DigitalOcean数据中心
-      - 🇳🇱 荷兰 CCZZUU.TOP 2
+      - 🇭🇰 香港 电讯盈科有限公司
       - 🇺🇸 美国 CloudFlare节点
-      - 🇭🇰 香港 ThinkDream数据中心
-      - 🇺🇸 美国 Vegasnap公司
-      - 🇩🇪 德国 CCZZUU.TOP
+      - 🇸🇪 瑞典 CCZZUU.TOP
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇮🇷 伊朗 CCZZUU.TOP 2
-      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇸🇪 瑞典 CCZZUU.TOP 2
+      - 🇦🇺 澳大利亚 CCZZUU.TOP
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇦🇺 澳大利亚 CCZZUU.TOP 2
+      - 🇫🇷 法国 CCZZUU.TOP
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇭🇰 香港 阿里云
-      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇺🇦 乌克兰 CCZZUU.TOP
+      - 🇸🇬 新加坡 DigitalOcean数据中心
+      - 🇺🇸 美国 纽约州伊利县威廉斯维尔村ColoCrossing有限公司
+      - 🇮🇷 伊朗 CCZZUU.TOP
+      - 🇺🇸 美国 Vegasnap公司
+      - 🇮🇷 伊朗 CCZZUU.TOP 2
+      - 🇯🇵 日本 CCZZUU.TOP
+      - 🇯🇵 日本 CCZZUU.TOP 2
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 🇮🇷 伊朗 CCZZUU.TOP
-      - 🇸🇪 瑞典 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP
-      - 🇺🇸 美国 纽约DigitalOcean数据中心
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
-      - 🇳🇱 荷兰 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP 2
-      - 🇷🇺 俄罗斯 CCZZUU.TOP 3
-      - 🇺🇸 美国 加利福尼亚州洛杉矶DigitalOcean数据中心
-      - 🇳🇱 荷兰 CCZZUU.TOP 2
+      - 🇭🇰 香港 电讯盈科有限公司
       - 🇺🇸 美国 CloudFlare节点
-      - 🇭🇰 香港 ThinkDream数据中心
-      - 🇺🇸 美国 Vegasnap公司
-      - 🇩🇪 德国 CCZZUU.TOP
+      - 🇸🇪 瑞典 CCZZUU.TOP
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇮🇷 伊朗 CCZZUU.TOP 2
-      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇸🇪 瑞典 CCZZUU.TOP 2
+      - 🇦🇺 澳大利亚 CCZZUU.TOP
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇦🇺 澳大利亚 CCZZUU.TOP 2
+      - 🇫🇷 法国 CCZZUU.TOP
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇭🇰 香港 阿里云
-      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇺🇦 乌克兰 CCZZUU.TOP
+      - 🇸🇬 新加坡 DigitalOcean数据中心
+      - 🇺🇸 美国 纽约州伊利县威廉斯维尔村ColoCrossing有限公司
+      - 🇮🇷 伊朗 CCZZUU.TOP
+      - 🇺🇸 美国 Vegasnap公司
+      - 🇮🇷 伊朗 CCZZUU.TOP 2
+      - 🇯🇵 日本 CCZZUU.TOP
+      - 🇯🇵 日本 CCZZUU.TOP 2
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
       - 8元老牌专线机场：cczzuu.top
-      - 🇮🇷 伊朗 CCZZUU.TOP
-      - 🇸🇪 瑞典 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP
-      - 🇺🇸 美国 纽约DigitalOcean数据中心
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
-      - 🇳🇱 荷兰 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP 2
-      - 🇷🇺 俄罗斯 CCZZUU.TOP 3
-      - 🇺🇸 美国 加利福尼亚州洛杉矶DigitalOcean数据中心
-      - 🇳🇱 荷兰 CCZZUU.TOP 2
+      - 🇭🇰 香港 电讯盈科有限公司
       - 🇺🇸 美国 CloudFlare节点
-      - 🇭🇰 香港 ThinkDream数据中心
-      - 🇺🇸 美国 Vegasnap公司
-      - 🇩🇪 德国 CCZZUU.TOP
+      - 🇸🇪 瑞典 CCZZUU.TOP
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇮🇷 伊朗 CCZZUU.TOP 2
-      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇸🇪 瑞典 CCZZUU.TOP 2
+      - 🇦🇺 澳大利亚 CCZZUU.TOP
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇦🇺 澳大利亚 CCZZUU.TOP 2
+      - 🇫🇷 法国 CCZZUU.TOP
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇭🇰 香港 阿里云
-      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇺🇦 乌克兰 CCZZUU.TOP
+      - 🇸🇬 新加坡 DigitalOcean数据中心
+      - 🇺🇸 美国 纽约州伊利县威廉斯维尔村ColoCrossing有限公司
+      - 🇮🇷 伊朗 CCZZUU.TOP
+      - 🇺🇸 美国 Vegasnap公司
+      - 🇮🇷 伊朗 CCZZUU.TOP 2
+      - 🇯🇵 日本 CCZZUU.TOP
+      - 🇯🇵 日本 CCZZUU.TOP 2
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 🇮🇷 伊朗 CCZZUU.TOP
-      - 🇸🇪 瑞典 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP
-      - 🇺🇸 美国 纽约DigitalOcean数据中心
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
-      - 🇳🇱 荷兰 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP 2
-      - 🇷🇺 俄罗斯 CCZZUU.TOP 3
-      - 🇺🇸 美国 加利福尼亚州洛杉矶DigitalOcean数据中心
-      - 🇳🇱 荷兰 CCZZUU.TOP 2
+      - 🇭🇰 香港 电讯盈科有限公司
       - 🇺🇸 美国 CloudFlare节点
-      - 🇭🇰 香港 ThinkDream数据中心
-      - 🇺🇸 美国 Vegasnap公司
-      - 🇩🇪 德国 CCZZUU.TOP
+      - 🇸🇪 瑞典 CCZZUU.TOP
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇮🇷 伊朗 CCZZUU.TOP 2
-      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇸🇪 瑞典 CCZZUU.TOP 2
+      - 🇦🇺 澳大利亚 CCZZUU.TOP
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇦🇺 澳大利亚 CCZZUU.TOP 2
+      - 🇫🇷 法国 CCZZUU.TOP
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇭🇰 香港 阿里云
-      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇺🇦 乌克兰 CCZZUU.TOP
+      - 🇸🇬 新加坡 DigitalOcean数据中心
+      - 🇺🇸 美国 纽约州伊利县威廉斯维尔村ColoCrossing有限公司
+      - 🇮🇷 伊朗 CCZZUU.TOP
+      - 🇺🇸 美国 Vegasnap公司
+      - 🇮🇷 伊朗 CCZZUU.TOP 2
+      - 🇯🇵 日本 CCZZUU.TOP
+      - 🇯🇵 日本 CCZZUU.TOP 2
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -191,26 +184,25 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 8元老牌专线机场：cczzuu.top
-      - 🇮🇷 伊朗 CCZZUU.TOP
-      - 🇸🇪 瑞典 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP
-      - 🇺🇸 美国 纽约DigitalOcean数据中心
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
-      - 🇳🇱 荷兰 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP 2
-      - 🇷🇺 俄罗斯 CCZZUU.TOP 3
-      - 🇺🇸 美国 加利福尼亚州洛杉矶DigitalOcean数据中心
-      - 🇳🇱 荷兰 CCZZUU.TOP 2
+      - 🇭🇰 香港 电讯盈科有限公司
       - 🇺🇸 美国 CloudFlare节点
-      - 🇭🇰 香港 ThinkDream数据中心
-      - 🇺🇸 美国 Vegasnap公司
-      - 🇩🇪 德国 CCZZUU.TOP
+      - 🇸🇪 瑞典 CCZZUU.TOP
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇮🇷 伊朗 CCZZUU.TOP 2
-      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇸🇪 瑞典 CCZZUU.TOP 2
+      - 🇦🇺 澳大利亚 CCZZUU.TOP
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇦🇺 澳大利亚 CCZZUU.TOP 2
+      - 🇫🇷 法国 CCZZUU.TOP
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇭🇰 香港 阿里云
-      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇺🇦 乌克兰 CCZZUU.TOP
+      - 🇸🇬 新加坡 DigitalOcean数据中心
+      - 🇺🇸 美国 纽约州伊利县威廉斯维尔村ColoCrossing有限公司
+      - 🇮🇷 伊朗 CCZZUU.TOP
+      - 🇺🇸 美国 Vegasnap公司
+      - 🇮🇷 伊朗 CCZZUU.TOP 2
+      - 🇯🇵 日本 CCZZUU.TOP
+      - 🇯🇵 日本 CCZZUU.TOP 2
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -234,26 +226,25 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 8元老牌专线机场：cczzuu.top
-      - 🇮🇷 伊朗 CCZZUU.TOP
-      - 🇸🇪 瑞典 CCZZUU.TOP
-      - 🇺🇸 美国 CCZZUU.TOP
-      - 🇺🇸 美国 纽约DigitalOcean数据中心
-      - 🇷🇺 俄罗斯 CCZZUU.TOP
-      - 🇳🇱 荷兰 CCZZUU.TOP
-      - 🇷🇺 俄罗斯 CCZZUU.TOP 2
-      - 🇷🇺 俄罗斯 CCZZUU.TOP 3
-      - 🇺🇸 美国 加利福尼亚州洛杉矶DigitalOcean数据中心
-      - 🇳🇱 荷兰 CCZZUU.TOP 2
+      - 🇭🇰 香港 电讯盈科有限公司
       - 🇺🇸 美国 CloudFlare节点
-      - 🇭🇰 香港 ThinkDream数据中心
-      - 🇺🇸 美国 Vegasnap公司
-      - 🇩🇪 德国 CCZZUU.TOP
+      - 🇸🇪 瑞典 CCZZUU.TOP
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇮🇷 伊朗 CCZZUU.TOP 2
-      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇸🇪 瑞典 CCZZUU.TOP 2
+      - 🇦🇺 澳大利亚 CCZZUU.TOP
+      - 🇺🇸 美国 加利福尼亚州旧金山DigitalOcean数据中心
+      - 🇦🇺 澳大利亚 CCZZUU.TOP 2
+      - 🇫🇷 法国 CCZZUU.TOP
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇭🇰 香港 阿里云
-      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇬🇧 英国 CCZZUU.TOP
+      - 🇺🇦 乌克兰 CCZZUU.TOP
+      - 🇸🇬 新加坡 DigitalOcean数据中心
+      - 🇺🇸 美国 纽约州伊利县威廉斯维尔村ColoCrossing有限公司
+      - 🇮🇷 伊朗 CCZZUU.TOP
+      - 🇺🇸 美国 Vegasnap公司
+      - 🇮🇷 伊朗 CCZZUU.TOP 2
+      - 🇯🇵 日本 CCZZUU.TOP
+      - 🇯🇵 日本 CCZZUU.TOP 2
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

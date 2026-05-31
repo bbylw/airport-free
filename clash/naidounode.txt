@@ -6,15 +6,15 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: 8元老牌专线机场：cczzuu.top, server: efan.dnsefan04881.com, port: 7754, type: vmess, uuid: 009e558d-3cf4-49d8-b5e4-82c9e14fe1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 台湾省 starcorenode.com, server: 211.76.176.98, port: 19128, type: trojan, password: gcuCpQfaiVeDBdWG, sni: yazhou10.dynu.net, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 starcorenode.com, server: 65.20.90.225, port: 443, type: trojan, password: Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg, sni: www.sandbox-cloud.click, skip-cert-verify: false}
-  - {name: 🇪🇸 西班牙 starcorenode.com, server: 185.18.250.127, port: 2096, type: vless, uuid: 2ee26119-94e5-40b4-ba3a-16354021b600, tls: true, tfo: false, skip-cert-verify: false, servername: 69565ce3109804e7813f98ee.mmdbay.blog, network: ws, ws-opts: {path: /graphql, headers: {Host: 69565ce3109804e7813f98ee.mmdbay.blog}}}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.19.229.21, port: 443, type: vless, uuid: cc752a3e-1537-4e86-bb50-1b897bf7b33c, tls: true, tfo: false, skip-cert-verify: false, servername: cyylr.eu.cc, client-fingerprint: chrome, network: ws, ws-opts: {path: /sg-melbi, headers: {Host: cyylr.eu.cc}}}
+  - {name: 🇺🇸 美国 Akamai科技公司CDN网络节点, server: 172.236.220.10, port: 443, type: trojan, password: s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui, sni: 172.236.220.10, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 starcorenode.com, server: gtm-sg-cc54q7d1q01.365cloud0285.com, port: 6001, type: vmess, uuid: a030842a-d29a-4ea9-a776-14fc4b9e102d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇸 北美地区 starcorenode.com, server: 104.152.48.205, port: 443, type: trojan, password: rYuChHcwQZskq9E0zdoR, sni: vpn5.rnmcnm.com, skip-cert-verify: false, network: ws, ws-opts: {path: /ws-79dffb8106db, headers: {Host: vpn5.rnmcnm.com}}}
+  - {name: 🇷🇺 俄罗斯 莫斯科JustHost, server: 45.140.169.216, port: 30129, type: ss, cipher: aes-256-gcm, password: c5fcdf7829112cb4}
   - {name: 🇬🇧 英国 starcorenode.com, server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇷🇺 俄罗斯 starcorenode.com, server: 212.192.15.225, port: 20129, type: ss, cipher: aes-256-gcm, password: 7e1dd4c55bf85da5}
+  - {name: 🇷🇺 俄罗斯 starcorenode.com, server: 85.198.85.193, port: 40470, type: vless, uuid: b43c896e-d9b8-4606-b902-b1bf6d10d2f9, tls: true, tfo: false, skip-cert-verify: false, reality-opts: {public-key: kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI, short-id: "1fad87" }, servername: 5post-gate.x5.ru, client-fingerprint: chrome, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 🇬🇧 英国 starcorenode.com 2, server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇲🇩 摩尔多瓦 starcorenode.com, server: pl.prostosetup.org, port: 443, type: vless, uuid: 1b43419a-b711-40d4-a0ee-eb5c73e60c92, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: ps7eCLLKAqgSGPFRQl1-R1PhzUeO1Z1EwNl02Ac63UA, short-id: "514d02a2addd6476" }, servername: pl.prostosetup.org, client-fingerprint: chrome, network: tcp}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 198.41.223.61, port: 443, type: vless, uuid: 7f3faff8-41db-403d-8329-6b9072aaabe2, tls: true, tfo: false, skip-cert-verify: false, servername: edgetunnell-1dc.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: edgetunnell-1dc.pages.dev}}}
-  - {name: 亚太地区 starcorenode.com, server: 103.181.164.145, port: 51556, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 starcorenode.com 2, server: 149.28.255.6, port: 816, type: ss, cipher: chacha20-ietf-poly1305, password: GyZ5Xo0ht41vYmW3H4}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -22,15 +22,15 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - 8元老牌专线机场：cczzuu.top
-      - 🇨🇳 台湾省 starcorenode.com
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
       - 🇺🇸 美国 starcorenode.com
-      - 🇪🇸 西班牙 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 北美地区 starcorenode.com
+      - 🇷🇺 俄罗斯 莫斯科JustHost
       - 🇬🇧 英国 starcorenode.com
       - 🇷🇺 俄罗斯 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com 2
       - 🇲🇩 摩尔多瓦 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 亚太地区 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -38,15 +38,15 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 8元老牌专线机场：cczzuu.top
-      - 🇨🇳 台湾省 starcorenode.com
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
       - 🇺🇸 美国 starcorenode.com
-      - 🇪🇸 西班牙 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 北美地区 starcorenode.com
+      - 🇷🇺 俄罗斯 莫斯科JustHost
       - 🇬🇧 英国 starcorenode.com
       - 🇷🇺 俄罗斯 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com 2
       - 🇲🇩 摩尔多瓦 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 亚太地区 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 2
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -54,60 +54,60 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 🇨🇳 台湾省 starcorenode.com
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
       - 🇺🇸 美国 starcorenode.com
-      - 🇪🇸 西班牙 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 北美地区 starcorenode.com
+      - 🇷🇺 俄罗斯 莫斯科JustHost
       - 🇬🇧 英国 starcorenode.com
       - 🇷🇺 俄罗斯 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com 2
       - 🇲🇩 摩尔多瓦 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 亚太地区 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 2
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 🇨🇳 台湾省 starcorenode.com
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
       - 🇺🇸 美国 starcorenode.com
-      - 🇪🇸 西班牙 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 北美地区 starcorenode.com
+      - 🇷🇺 俄罗斯 莫斯科JustHost
       - 🇬🇧 英国 starcorenode.com
       - 🇷🇺 俄罗斯 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com 2
       - 🇲🇩 摩尔多瓦 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 亚太地区 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 2
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
       - 8元老牌专线机场：cczzuu.top
-      - 🇨🇳 台湾省 starcorenode.com
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
       - 🇺🇸 美国 starcorenode.com
-      - 🇪🇸 西班牙 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 北美地区 starcorenode.com
+      - 🇷🇺 俄罗斯 莫斯科JustHost
       - 🇬🇧 英国 starcorenode.com
       - 🇷🇺 俄罗斯 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com 2
       - 🇲🇩 摩尔多瓦 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 亚太地区 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 2
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 🇨🇳 台湾省 starcorenode.com
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
       - 🇺🇸 美国 starcorenode.com
-      - 🇪🇸 西班牙 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 北美地区 starcorenode.com
+      - 🇷🇺 俄罗斯 莫斯科JustHost
       - 🇬🇧 英国 starcorenode.com
       - 🇷🇺 俄罗斯 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com 2
       - 🇲🇩 摩尔多瓦 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 亚太地区 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 2
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -115,15 +115,15 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 8元老牌专线机场：cczzuu.top
-      - 🇨🇳 台湾省 starcorenode.com
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
       - 🇺🇸 美国 starcorenode.com
-      - 🇪🇸 西班牙 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 北美地区 starcorenode.com
+      - 🇷🇺 俄罗斯 莫斯科JustHost
       - 🇬🇧 英国 starcorenode.com
       - 🇷🇺 俄罗斯 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com 2
       - 🇲🇩 摩尔多瓦 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 亚太地区 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 2
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -147,15 +147,15 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 8元老牌专线机场：cczzuu.top
-      - 🇨🇳 台湾省 starcorenode.com
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
       - 🇺🇸 美国 starcorenode.com
-      - 🇪🇸 西班牙 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 北美地区 starcorenode.com
+      - 🇷🇺 俄罗斯 莫斯科JustHost
       - 🇬🇧 英国 starcorenode.com
       - 🇷🇺 俄罗斯 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com 2
       - 🇲🇩 摩尔多瓦 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 亚太地区 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 2
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

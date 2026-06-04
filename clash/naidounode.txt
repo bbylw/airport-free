@@ -6,17 +6,17 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: 8元老牌专线机场：cczzuu.top, server: efan.dnsefan04881.com, port: 7754, type: vmess, uuid: 009e558d-3cf4-49d8-b5e4-82c9e14fe1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 RF Engineering, server: 141.193.213.10, port: 443, type: vless, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, tls: true, tfo: false, skip-cert-verify: false, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}}
+  - {name: 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司, server: 130.94.107.171, port: 443, type: trojan, password: s.wRSE4ANZp4=4h.=B_9Qbetw6XUc0V1SV, sni: www.logger-guard.click, skip-cert-verify: false}
+  - {name: 🇬🇧 英国 starcorenode.com, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇨🇿 捷克 starcorenode.com, server: 31.207.5.73, port: 443, type: vless, uuid: 6d088fbd-528d-4f2a-be26-317dcda3c6ee, tls: true, tfo: false, skip-cert-verify: false, reality-opts: {public-key: HlxgAXuwwby0lujjT2LKBPF0udWK4SVjtMPyKtiNdEw, short-id: "232cd9a21e42" }, servername: www.amd.com, client-fingerprint: chrome, network: tcp}
-  - {name: 🇧🇷 巴西 starcorenode.com, server: 152.233.28.196, port: 8443, type: vless, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, tls: true, tfo: false, skip-cert-verify: false, servername: uk1.fromblancwithlove.com, network: tcp}
-  - {name: 🇪🇸 西班牙 starcorenode.com, server: 109.234.211.66, port: 8443, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: store.timimi.dpdns.org}}}
-  - {name: 🇩🇪 德国 starcorenode.com, server: 91.233.8.138, port: 443, type: trojan, password: qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq, sni: www.homelywebs.click, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 德克萨斯州达拉斯Oracle(Zenedge), server: okrs01.7770123.xyz, port: 15219, type: hysteria2, password: ff488c48-b745-4d65-a6a1-0339be0b7fd7, auth: ff488c48-b745-4d65-a6a1-0339be0b7fd7, sni: okrs01.7770123.xyz, skip-cert-verify: false, alpn: [h3]}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: store.ubi.com, port: 443, type: vless, uuid: 00000000-0000-4000-8000-000000000000, tls: true, tfo: false, skip-cert-verify: false, servername: nn9jdg-k7yewrrk.acg.xx.kg, client-fingerprint: chrome, network: ws, ws-opts: {path: /@Marisa_kristi, headers: {Host: nn9jdg-k7yewrrk.acg.xx.kg}}}
-  - {name: 🇷🇺 俄罗斯 starcorenode.com, server: renderer-stream-1-411.mirra.now, port: 443, type: vmess, uuid: df9c9355-b02c-4c12-909d-0dbeb725d52b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v1/gpu-stream/socket, headers: {Host: renderer-stream-1-411.mirra.now}}}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: nuclear.us.kg, port: 443, type: vless, uuid: 2bcfbfba-b446-4ad5-93ad-72af9e008f61, tls: true, tfo: false, skip-cert-verify: false, servername: nuclear.us.kg, network: ws, ws-opts: {path: /free/1.226.227.169:50001, headers: {Host: nuclear.us.kg}}}
-  - {name: 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司, server: 130.94.97.11, port: 443, type: trojan, password: Z3_=ewk_+l1U4OT4usQ5=o2vFfk95yfy1V, sni: www.selectnet.click, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 加利福尼亚, server: 64.176.65.85, port: 443, type: trojan, password: iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf, skip-cert-verify: false}
-  - {name: 🇳🇿 新西兰 starcorenode.com, server: 202.37.33.81, port: 443, type: vless, uuid: 3b01a777-55e7-49f6-8637-d94ee69607c6, tls: true, tfo: false, skip-cert-verify: false, servername: m.udemy.com.cyylr.eu.cc, client-fingerprint: chrome, network: ws, ws-opts: {path: /id-tksi, headers: {Host: m.udemy.com.cyylr.eu.cc}}}
+  - {name: 🇺🇸 美国 Akamai科技公司CDN网络节点, server: 172.238.120.124, port: 443, type: trojan, password: r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 Akamai科技公司CDN网络节点 2, server: 172.236.220.10, port: 443, type: trojan, password: s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui, sni: 172.236.220.10, skip-cert-verify: false}
+  - {name: 🇨🇳 台湾省新北市 中华电信, server: r3mrcg001286ek2.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.16.74.121, port: 443, type: vless, uuid: cc752a3e-1537-4e86-bb50-1b897bf7b33c, tls: true, tfo: false, skip-cert-verify: false, servername: cyylr.eu.cc, client-fingerprint: chrome, network: ws, ws-opts: {path: /sg-melbi, headers: {Host: cyylr.eu.cc}}}
+  - {name: 🇺🇸 美国 Akamai科技公司CDN网络节点 3, server: 172.237.145.189, port: 443, type: trojan, password: A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM, sni: 172.237.145.189, skip-cert-verify: false}
+  - {name: 🇷🇺 俄罗斯 starcorenode.com, server: cdn3-25.vk-cdnvideo.com, port: 8443, type: vless, uuid: 931729a8-3c20-4841-89a1-f18dc9ce0a6f, tls: true, tfo: false, skip-cert-verify: false, network: tcp}
+  - {name: 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司 2, server: 130.94.97.11, port: 443, type: trojan, password: Z3_=ewk_+l1U4OT4usQ5=o2vFfk95yfy1V, sni: www.selectnet.click, skip-cert-verify: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -24,17 +24,17 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - 8元老牌专线机场：cczzuu.top
-      - 🇨🇿 捷克 starcorenode.com
-      - 🇧🇷 巴西 starcorenode.com
-      - 🇪🇸 西班牙 starcorenode.com
-      - 🇩🇪 德国 starcorenode.com
-      - 🇺🇸 美国 德克萨斯州达拉斯Oracle(Zenedge)
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇷🇺 俄罗斯 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 RF Engineering
       - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
-      - 🇺🇸 美国 加利福尼亚
-      - 🇳🇿 新西兰 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com
+      - 🇨🇿 捷克 starcorenode.com
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 2
+      - 🇨🇳 台湾省新北市 中华电信
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 3
+      - 🇷🇺 俄罗斯 starcorenode.com
+      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司 2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -42,17 +42,17 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 8元老牌专线机场：cczzuu.top
-      - 🇨🇿 捷克 starcorenode.com
-      - 🇧🇷 巴西 starcorenode.com
-      - 🇪🇸 西班牙 starcorenode.com
-      - 🇩🇪 德国 starcorenode.com
-      - 🇺🇸 美国 德克萨斯州达拉斯Oracle(Zenedge)
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇷🇺 俄罗斯 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 RF Engineering
       - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
-      - 🇺🇸 美国 加利福尼亚
-      - 🇳🇿 新西兰 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com
+      - 🇨🇿 捷克 starcorenode.com
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 2
+      - 🇨🇳 台湾省新北市 中华电信
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 3
+      - 🇷🇺 俄罗斯 starcorenode.com
+      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司 2
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -60,68 +60,68 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 🇨🇿 捷克 starcorenode.com
-      - 🇧🇷 巴西 starcorenode.com
-      - 🇪🇸 西班牙 starcorenode.com
-      - 🇩🇪 德国 starcorenode.com
-      - 🇺🇸 美国 德克萨斯州达拉斯Oracle(Zenedge)
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇷🇺 俄罗斯 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 RF Engineering
       - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
-      - 🇺🇸 美国 加利福尼亚
-      - 🇳🇿 新西兰 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com
+      - 🇨🇿 捷克 starcorenode.com
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 2
+      - 🇨🇳 台湾省新北市 中华电信
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 3
+      - 🇷🇺 俄罗斯 starcorenode.com
+      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司 2
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 🇨🇿 捷克 starcorenode.com
-      - 🇧🇷 巴西 starcorenode.com
-      - 🇪🇸 西班牙 starcorenode.com
-      - 🇩🇪 德国 starcorenode.com
-      - 🇺🇸 美国 德克萨斯州达拉斯Oracle(Zenedge)
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇷🇺 俄罗斯 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 RF Engineering
       - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
-      - 🇺🇸 美国 加利福尼亚
-      - 🇳🇿 新西兰 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com
+      - 🇨🇿 捷克 starcorenode.com
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 2
+      - 🇨🇳 台湾省新北市 中华电信
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 3
+      - 🇷🇺 俄罗斯 starcorenode.com
+      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司 2
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
       - 8元老牌专线机场：cczzuu.top
-      - 🇨🇿 捷克 starcorenode.com
-      - 🇧🇷 巴西 starcorenode.com
-      - 🇪🇸 西班牙 starcorenode.com
-      - 🇩🇪 德国 starcorenode.com
-      - 🇺🇸 美国 德克萨斯州达拉斯Oracle(Zenedge)
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇷🇺 俄罗斯 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 RF Engineering
       - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
-      - 🇺🇸 美国 加利福尼亚
-      - 🇳🇿 新西兰 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com
+      - 🇨🇿 捷克 starcorenode.com
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 2
+      - 🇨🇳 台湾省新北市 中华电信
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 3
+      - 🇷🇺 俄罗斯 starcorenode.com
+      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司 2
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 🇨🇿 捷克 starcorenode.com
-      - 🇧🇷 巴西 starcorenode.com
-      - 🇪🇸 西班牙 starcorenode.com
-      - 🇩🇪 德国 starcorenode.com
-      - 🇺🇸 美国 德克萨斯州达拉斯Oracle(Zenedge)
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇷🇺 俄罗斯 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 RF Engineering
       - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
-      - 🇺🇸 美国 加利福尼亚
-      - 🇳🇿 新西兰 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com
+      - 🇨🇿 捷克 starcorenode.com
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 2
+      - 🇨🇳 台湾省新北市 中华电信
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 3
+      - 🇷🇺 俄罗斯 starcorenode.com
+      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司 2
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -129,17 +129,17 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 8元老牌专线机场：cczzuu.top
-      - 🇨🇿 捷克 starcorenode.com
-      - 🇧🇷 巴西 starcorenode.com
-      - 🇪🇸 西班牙 starcorenode.com
-      - 🇩🇪 德国 starcorenode.com
-      - 🇺🇸 美国 德克萨斯州达拉斯Oracle(Zenedge)
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇷🇺 俄罗斯 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 RF Engineering
       - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
-      - 🇺🇸 美国 加利福尼亚
-      - 🇳🇿 新西兰 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com
+      - 🇨🇿 捷克 starcorenode.com
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 2
+      - 🇨🇳 台湾省新北市 中华电信
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 3
+      - 🇷🇺 俄罗斯 starcorenode.com
+      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司 2
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -163,17 +163,17 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 8元老牌专线机场：cczzuu.top
-      - 🇨🇿 捷克 starcorenode.com
-      - 🇧🇷 巴西 starcorenode.com
-      - 🇪🇸 西班牙 starcorenode.com
-      - 🇩🇪 德国 starcorenode.com
-      - 🇺🇸 美国 德克萨斯州达拉斯Oracle(Zenedge)
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇷🇺 俄罗斯 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 RF Engineering
       - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
-      - 🇺🇸 美国 加利福尼亚
-      - 🇳🇿 新西兰 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com
+      - 🇨🇿 捷克 starcorenode.com
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 2
+      - 🇨🇳 台湾省新北市 中华电信
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 3
+      - 🇷🇺 俄罗斯 starcorenode.com
+      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司 2
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

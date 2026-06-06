@@ -6,18 +6,16 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: 8元老牌专线机场：cczzuu.top, server: efan.dnsefan04881.com, port: 7754, type: vmess, uuid: 009e558d-3cf4-49d8-b5e4-82c9e14fe1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇷🇺 俄罗斯 starcorenode.com, server: r1.mizulina.top, port: 22231, type: vless, uuid: afcac633-0e1a-46c3-bef2-cc01cc0097c8, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, client-fingerprint: chrome, network: tcp}
-  - {name: 🇮🇷 伊朗 starcorenode.com, server: transparency.cloud-fr.appcore.org, port: 34754, type: vless, uuid: 35762c02-ff2b-4526-b41b-e96e5d99528b, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: eMijZKuJlNEciXbhyzdbewk-ot_JLMZVaA42bxKFcBM, short-id: "c9eb0359fac0c345" }, servername: yahoo.com, client-fingerprint: firefox, network: tcp}
-  - {name: 🇷🇺 俄罗斯 starcorenode.com 2, server: greb.loralden.com, port: 443, type: vless, uuid: 2065a8c9-8b3d-4dba-b0ce-90d649aa3da7, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k, short-id: "3620820fe66d6731" }, servername: greb.loralden.com, client-fingerprint: chrome, network: tcp}
-  - {name: 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司, server: 130.94.107.171, port: 443, type: trojan, password: s.wRSE4ANZp4=4h.=B_9Qbetw6XUc0V1SV, sni: www.logger-guard.click, skip-cert-verify: false}
-  - {name: 🇬🇧 英国 starcorenode.com, server: 31.76.113.34, port: 443, type: vless, uuid: dfc0cb9d-f005-41b0-848c-7703bd39d0de, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY, short-id: "7a3f9e2b1c8d4f6a" }, servername: it.s3-cloud.xyz, client-fingerprint: edge, network: tcp}
-  - {name: 亚太地区 starcorenode.com, server: de01.goodmaximum.com, port: 443, type: vless, uuid: c2401b12-8bb8-0014-abc0-89dbaea88116, tls: true, tfo: false, skip-cert-verify: false, reality-opts: {public-key: fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ, short-id: "31181028b56c8704" }, servername: glimmerhouse.com, client-fingerprint: chrome, network: tcp}
-  - {name: 🇧🇪 比利时 starcorenode.com, server: 150.251.158.76, port: 443, type: vless, uuid: 10550754-cf62-3d3b-ba6a-50be27a275d7, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: s646.okgg.top, client-fingerprint: random, network: tcp}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: speedtest.org, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2, headers: {Host: de2.ping-game.ir}}}
-  - {name: 🇺🇸 美国 加利福尼亚, server: 64.176.65.85, port: 443, type: trojan, password: iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 Akamai科技公司CDN网络节点, server: 172.237.145.189, port: 443, type: trojan, password: A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM, sni: 172.237.145.189, skip-cert-verify: false}
-  - {name: 🇷🇺 俄罗斯 starcorenode.com 3, server: 85.234.114.53, port: 22231, type: vless, uuid: afcac633-0e1a-46c3-bef2-cc01cc0097c8, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: r1.mizulina.top, client-fingerprint: chrome, network: tcp}
+  - {name: 🇬🇧 英国 starcorenode.com, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇸🇦 沙特阿拉伯 starcorenode.com, server: as.pink-perfect.ru, port: 443, type: vless, uuid: 5d8fcd24-9634-4dd7-845c-3dc2d6291942, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk, short-id: "8ffa160e608bf539" }, servername: as.pink-perfect.ru, client-fingerprint: chrome, network: tcp}
+  - {name: 🇬🇧 英国 starcorenode.com 2, server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇬🇧 英国 starcorenode.com 3, server: 31.76.113.34, port: 443, type: vless, uuid: dfc0cb9d-f005-41b0-848c-7703bd39d0de, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY, short-id: "7a3f9e2b1c8d4f6a" }, servername: it.s3-cloud.xyz, client-fingerprint: edge, network: tcp}
+  - {name: 🇬🇧 英国 starcorenode.com 4, server: 31.76.113.51, port: 443, type: vless, uuid: dfc0cb9d-f005-41b0-848c-7703bd39d0de, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY, short-id: "7a3f9e2b1c8d4f6a" }, servername: it.s3-cloud.xyz, client-fingerprint: chrome, network: tcp}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: 172.67.211.74, port: 80, type: vless, uuid: e84064cc-617f-4ba8-aa6f-13e920fd2610, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: main.boobie.eu.cc}}}
+  - {name: 亚太地区 starcorenode.com, server: de01.goodmaximum.com, port: 443, type: vless, uuid: c2401b12-8bb8-0014-abc0-89dbaea88116, tls: true, tfo: false, skip-cert-verify: false, reality-opts: {public-key: fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ, short-id: "31181028b56c8704" }, servername: portal.glimmerhouse.com, client-fingerprint: chrome, network: tcp}
   - {name: 🇨🇳 广东省 珠江宽频, server: 122.8.44.3, port: 993, type: vless, uuid: 2703cda8-5cf4-019d-c4bd-6cf0c2261946, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: UvQ2HZFkQXrBiaprbcmks-aFo1dvnfPlHXcUKcl-i04}, servername: dl.google.com, client-fingerprint: chrome, network: tcp}
+  - {name: 🇺🇸 美国 Akamai科技公司CDN网络节点, server: 172.238.120.124, port: 443, type: trojan, password: r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ, skip-cert-verify: false}
+  - {name: 🇷🇺 俄罗斯 starcorenode.com, server: r1.mizulina.top, port: 22231, type: vless, uuid: afcac633-0e1a-46c3-bef2-cc01cc0097c8, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: r1.mizulina.top, client-fingerprint: chrome, network: tcp}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -25,18 +23,16 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - 8元老牌专线机场：cczzuu.top
-      - 🇷🇺 俄罗斯 starcorenode.com
-      - 🇮🇷 伊朗 starcorenode.com
-      - 🇷🇺 俄罗斯 starcorenode.com 2
-      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
       - 🇬🇧 英国 starcorenode.com
-      - 亚太地区 starcorenode.com
-      - 🇧🇪 比利时 starcorenode.com
+      - 🇸🇦 沙特阿拉伯 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com 2
+      - 🇬🇧 英国 starcorenode.com 3
+      - 🇬🇧 英国 starcorenode.com 4
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 加利福尼亚
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇷🇺 俄罗斯 starcorenode.com 3
+      - 亚太地区 starcorenode.com
       - 🇨🇳 广东省 珠江宽频
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 starcorenode.com
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -44,18 +40,16 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 8元老牌专线机场：cczzuu.top
-      - 🇷🇺 俄罗斯 starcorenode.com
-      - 🇮🇷 伊朗 starcorenode.com
-      - 🇷🇺 俄罗斯 starcorenode.com 2
-      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
       - 🇬🇧 英国 starcorenode.com
-      - 亚太地区 starcorenode.com
-      - 🇧🇪 比利时 starcorenode.com
+      - 🇸🇦 沙特阿拉伯 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com 2
+      - 🇬🇧 英国 starcorenode.com 3
+      - 🇬🇧 英国 starcorenode.com 4
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 加利福尼亚
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇷🇺 俄罗斯 starcorenode.com 3
+      - 亚太地区 starcorenode.com
       - 🇨🇳 广东省 珠江宽频
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 starcorenode.com
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -63,72 +57,64 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 🇷🇺 俄罗斯 starcorenode.com
-      - 🇮🇷 伊朗 starcorenode.com
-      - 🇷🇺 俄罗斯 starcorenode.com 2
-      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
       - 🇬🇧 英国 starcorenode.com
-      - 亚太地区 starcorenode.com
-      - 🇧🇪 比利时 starcorenode.com
+      - 🇸🇦 沙特阿拉伯 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com 2
+      - 🇬🇧 英国 starcorenode.com 3
+      - 🇬🇧 英国 starcorenode.com 4
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 加利福尼亚
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇷🇺 俄罗斯 starcorenode.com 3
+      - 亚太地区 starcorenode.com
       - 🇨🇳 广东省 珠江宽频
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 starcorenode.com
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 🇷🇺 俄罗斯 starcorenode.com
-      - 🇮🇷 伊朗 starcorenode.com
-      - 🇷🇺 俄罗斯 starcorenode.com 2
-      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
       - 🇬🇧 英国 starcorenode.com
-      - 亚太地区 starcorenode.com
-      - 🇧🇪 比利时 starcorenode.com
+      - 🇸🇦 沙特阿拉伯 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com 2
+      - 🇬🇧 英国 starcorenode.com 3
+      - 🇬🇧 英国 starcorenode.com 4
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 加利福尼亚
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇷🇺 俄罗斯 starcorenode.com 3
+      - 亚太地区 starcorenode.com
       - 🇨🇳 广东省 珠江宽频
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 starcorenode.com
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
       - 8元老牌专线机场：cczzuu.top
-      - 🇷🇺 俄罗斯 starcorenode.com
-      - 🇮🇷 伊朗 starcorenode.com
-      - 🇷🇺 俄罗斯 starcorenode.com 2
-      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
       - 🇬🇧 英国 starcorenode.com
-      - 亚太地区 starcorenode.com
-      - 🇧🇪 比利时 starcorenode.com
+      - 🇸🇦 沙特阿拉伯 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com 2
+      - 🇬🇧 英国 starcorenode.com 3
+      - 🇬🇧 英国 starcorenode.com 4
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 加利福尼亚
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇷🇺 俄罗斯 starcorenode.com 3
+      - 亚太地区 starcorenode.com
       - 🇨🇳 广东省 珠江宽频
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 starcorenode.com
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 🇷🇺 俄罗斯 starcorenode.com
-      - 🇮🇷 伊朗 starcorenode.com
-      - 🇷🇺 俄罗斯 starcorenode.com 2
-      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
       - 🇬🇧 英国 starcorenode.com
-      - 亚太地区 starcorenode.com
-      - 🇧🇪 比利时 starcorenode.com
+      - 🇸🇦 沙特阿拉伯 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com 2
+      - 🇬🇧 英国 starcorenode.com 3
+      - 🇬🇧 英国 starcorenode.com 4
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 加利福尼亚
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇷🇺 俄罗斯 starcorenode.com 3
+      - 亚太地区 starcorenode.com
       - 🇨🇳 广东省 珠江宽频
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 starcorenode.com
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -136,18 +122,16 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 8元老牌专线机场：cczzuu.top
-      - 🇷🇺 俄罗斯 starcorenode.com
-      - 🇮🇷 伊朗 starcorenode.com
-      - 🇷🇺 俄罗斯 starcorenode.com 2
-      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
       - 🇬🇧 英国 starcorenode.com
-      - 亚太地区 starcorenode.com
-      - 🇧🇪 比利时 starcorenode.com
+      - 🇸🇦 沙特阿拉伯 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com 2
+      - 🇬🇧 英国 starcorenode.com 3
+      - 🇬🇧 英国 starcorenode.com 4
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 加利福尼亚
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇷🇺 俄罗斯 starcorenode.com 3
+      - 亚太地区 starcorenode.com
       - 🇨🇳 广东省 珠江宽频
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 starcorenode.com
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -171,18 +155,16 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 8元老牌专线机场：cczzuu.top
-      - 🇷🇺 俄罗斯 starcorenode.com
-      - 🇮🇷 伊朗 starcorenode.com
-      - 🇷🇺 俄罗斯 starcorenode.com 2
-      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
       - 🇬🇧 英国 starcorenode.com
-      - 亚太地区 starcorenode.com
-      - 🇧🇪 比利时 starcorenode.com
+      - 🇸🇦 沙特阿拉伯 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com 2
+      - 🇬🇧 英国 starcorenode.com 3
+      - 🇬🇧 英国 starcorenode.com 4
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 加利福尼亚
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇷🇺 俄罗斯 starcorenode.com 3
+      - 亚太地区 starcorenode.com
       - 🇨🇳 广东省 珠江宽频
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 starcorenode.com
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

@@ -588,7 +588,7 @@ hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@45.32.34.228:443?sni=u729792us2
 vless://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@s542.ccgfw.online:443?encryption=none&type=tcp&headerType=&fp=ios&host=s542.ccgfw.online&path=&flow=xtls-rprx-vision&security=tls&sni=u729792us542.ccgfw.online&serviceName=&mode=&alpn=#US%20VLESS-274%20%7C%20free-nodes
 vless://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@s842.ccgfw.top:443?encryption=none&type=tcp&headerType=&fp=ios&host=s842.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u729792us842.ccgfw.top&serviceName=&mode=&alpn=#US%20VLESS-275%20%7C%20free-nodes
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@s843.ccgfw.top:443?sni=u729792us843.ccgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#US%20HY2-276%20%7C%20free-nodes
-未获取到节点，错误代码: 404 Client Error: Not Found for url: http://naidounode.cczzuu.top/node/20260617-v2ray.txt
+未获取到节点，错误代码: HTTPConnectionPool(host='naidounode.cczzuu.top', port=80): Max retries exceeded with url: /node/20260617-v2ray.txt (Caused by NameResolutionError("HTTPConnection(host='naidounode.cczzuu.top', port=80): Failed to resolve 'naidounode.cczzuu.top' ([Errno -2] Name or service not known)"))
 vless://7b241232-208d-4d36-857e-913f91b044f4@fr.noooo.win:443?flow=xtls-rprx-vision&security=tls#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 vless://394086c4-d8a4-4298-9b62-f70fa711082d@47.86.55.200:19321#%F0%9F%87%AD%F0%9F%87%B0_HK_%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF
 vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjIxNCIsImFpZCI6MCwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJwb3J0IjoxODAsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9Iiwic2VjdXJpdHkiOiJhdXRvIn0=

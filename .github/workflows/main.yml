@@ -8,23 +8,27 @@ on:
 jobs:
   run-script:
     runs-on: ubuntu-latest
+    
+    # 👇 1. 核心修复：赋予工作流写权限，彻底解决 git push 403 报错
+    permissions:
+      contents: write
 
     steps:
+    # 2. 升级版本：从 @v2 升级到 @v4，确保长期稳定和运行速度
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
+    # 3. 升级版本：升级 Python 安装组件到 @v4
     - name: 安装 Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
         python-version: '3.x'
 
     - name: 依赖
       run: |
-        # 各种模块
         pip install --upgrade pip
         pip install requests
-        pip install datetime
-
+        # 💡 移除了无用的 pip install datetime，防止新版 Python 环境下报错
 
     - name: 删除旧生成的文件
       run: |
@@ -32,7 +36,6 @@ jobs:
         rm -f v2ray/* || true
         rm -f v2ray.txt
         rm -f nodes/proxy.txt || true
-
 
     - name: 遍历运行py脚本并输出文本 v2ray
       run: |
@@ -71,9 +74,9 @@ jobs:
             ((i++))
           fi
         done
-        list=$(echo "$list" | sed 's/$/\\n/g' | tr -d '\n') # Prepare list for insertion into README.md
+        list=$(echo "$list" | sed 's/$/\\n/g' | tr -d '\n') 
         cd ..
-        sed -i "/<clash_list>/c\\$list" README.md # Replace <v2ray_list> in README.md
+        sed -i "/<clash_list>/c\\$list" README.md 
 
 
     - name: README.md内容输出 v2ray
@@ -126,7 +129,6 @@ jobs:
 
 ##########################################################################################
 
-
     - name: Replace <PROXY> in README.md
       run: |
         PROXY=$(cat nodes/proxy.txt)
@@ -136,8 +138,7 @@ jobs:
     - name: README.md时间更新
       run: |
         TIME=$(date -u -d "+8 hours" '+%Y-%m-%d %H:%M:%S')
-          sed -i "s/<update_time>/$TIME/" README.md
-
+        sed -i "s/<update_time>/$TIME/" README.md
 
 
     - name: Commit and push if there are changes

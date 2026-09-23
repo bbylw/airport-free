@@ -2,6 +2,7 @@ import requests
 import datetime
 import base64
 import time
+import re
 
 # 设置请求头信息
 headers = {
@@ -20,6 +21,10 @@ day = now.day
 MONTH = f"{month:02d}"
 DAY = f"{day:02d}"
 
+# 匹配以 *:// 开头的行，* 为 1-9 个任意字符
+SCHEME_PATTERN = re.compile(r'^.{1,9}://')
+
+
 def is_base64_encoded(data):
     """检查数据是否为有效的Base64编码"""
     try:
@@ -29,6 +34,7 @@ def is_base64_encoded(data):
         return encoded_data.strip() == original_str.strip()
     except Exception:
         return False
+
 
 def fetch_node_file(index):
     """获取指定索引的节点文件"""
@@ -59,6 +65,7 @@ def fetch_node_file(index):
     except Exception:
         return None
 
+
 def main():
     index = 0
     consecutive_failures = 0
@@ -73,10 +80,20 @@ def main():
                 break
         else:
             consecutive_failures = 0
-            print(result)
+            
+            # 只收集以 *:// 开头的行（* 为 1-9 个字符）
+            valid_lines = [
+                line.strip() for line in result.splitlines()
+                if line.strip() and SCHEME_PATTERN.match(line.strip())
+            ]
+            
+            # 只有当存在有效行时才输出，且不输出任何提示信息
+            if valid_lines:
+                print("\n".join(valid_lines))
         
         index += 1
         time.sleep(0.5)
+
 
 if __name__ == "__main__":
     main()
